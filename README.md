@@ -1,1 +1,1 @@
-# SPD 1.3 Team-Software Project
+# SPD 1.3 Team Software Project
