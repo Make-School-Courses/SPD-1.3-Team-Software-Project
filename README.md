@@ -154,7 +154,7 @@ Students by the end of the course will be able to ...
 Finalize due dates: assignments, peer reviews, midterm grades
 Topics of discussion: Psych Safety, Dialogue Debate Discussion, Boat activity, Difficult Conversations, Delegation Exemplar
 
-## Class Assignments [Remove header if you like]
+## Class Assignments
 - **SPD 1.3 Blog Post: Team Software Development** -  see [link here](https://docs.google.com/document/u/1/d/11XGxQ8VA1lovoopqmqZCNHGwWGlHI-JWq12LiOZG6Cs/edit?usp=drive_web&ouid=102349547791146369642) for fully fledged assignment. Work on this assignment throughout the course instead of saving it for last minute. This blog post will serve as a valuable portfolio to demonstrate your skill to recruiters.
   - Draft due XXXXX, which will be our feedback class
   - Final due XXXXX
