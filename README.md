@@ -1,7 +1,4 @@
 # SPD 1.3 Team Software Project
-ss
-
-SPD-1.3 Team Software Project
 
 ## Course Description
 
@@ -73,9 +70,10 @@ Students by the end of the course will be able to ...
   - Final due XXXXX
   - Grading: [Blog Post Rubric](https://drive.google.com/file/d/1Q7kd-JTwd8COOGNeSD43UoAivwF5_dWZ/view?usp=sharing) will be used to evaluate your work. Students must score an average of 2 or above to pass.
 - Classroom activities mentioned below
-- **Term 2: Product - DUE DATE**
-  - Version 1 due XXXXXXXX, shipped “skateboard” that scores a 3 on the [intensive rubric](https://docs.google.com/document/d/1pdtRdgVISE07fFc8oBi5hCnLkwBQDFG5_3f79aDV1WU/edit)  
-  - Version 2 due XXXXXXXX, Polished App using the [portfolio project rubric](http://make.sc/portfolio-project-rubric), excluding the following rows (we'll cover that in future terms): Agile & SCRUM planning, Adoption
+- **Term 3: Product - DUE DATE**
+  - Version 1 due XXXXXXXX, shipped “skateboard” that scores a 3 on the [portfolio project rubric](http://make.sc/portfolio-project-rubric) excluding "write up" row.
+  - Version 2 due XXXXXXXX, that scores a 2.5 on the [portfolio project rubric](http://make.sc/portfolio-project-rubric)
+  - Version 3 due XXXXXXX, that scores a 3 on the [portfolio project rubric](http://make.sc/portfolio-project-rubric)
   - Grading: reference the two rubrics above
 - **Intensive: Shipped product** - Term 3 ends with a one week "intensive" soley focused on designing, coding and shiping your own NEW original product. You will present this product at Demo Night.
   - Grading: We'll use this [portfolio project rubric](https://docs.google.com/document/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/edit?usp=drive_web&ouid=102349547791146369642) to evaluate your work. Products must score an average of >2 to pass.
