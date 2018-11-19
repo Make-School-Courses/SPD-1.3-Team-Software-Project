@@ -64,8 +64,99 @@ Students by the end of the course will be able to ...
 [Lesson 2]: Lessons/Lesson2.md
 [Lesson 3]: Lessons/Lesson3.md
 
+## 1. Ideation, Elevator Pitches, & Team Formation
+  - **In Class Activities** - 
+    - *Idea Brainstorm* - Explore different industries and emerging technologies to brainstorm ideas for your term 3 project.
+    - *Teamwork Reflection* - Once again, let's improve our collaboration abilities. Pair up with your partner from LAST term and reflect on what you did well and what could be improved. Use the [teamwork rubric](make.sc/teamwork-rubric) to individually evaluate the the  performance of your teammate and your overall team performance. List out the top 2-3 things each of you want to do to improve your teamwork skills for this term's project.
+    - *Pitch video* - Make a video articulating your idea in an attempt to convince others to join your team.
+  - **After Class** - 1. Finish your pitch video and post the URL in the course tracker 2. Find 3 other teammates to collaborate with ... the start of next class will be devoted to finalizing teams 3.
+
+## 2.  Team Formation, Roles & Responsibilities
+  - **In Class Activities** - 
+    - *Team Formation* - Finalize Teams in the Course Tracker
+    - *XXXXXXXX* - Activity that demonstrates the importance of different roles on a team. STORM/NORM/PERFORM
+    - *Roles and Responsibilities* - Pick different roles and responsibilities for people on the team. This is one of the 
+    - *Making and Breaking Expectations* - Dialogue with your team on what you will do if individuals do not follow through on expectations and assigned tasks? What will be the recourse? By having these conversations proactively, you can ensure your team is resilent when people get off course.
+    - *User Interviews, User Narratives, Wireframes* - Use the remainder of class to work on your user interviews, user narratives and wireframes.
+  - **After Class** - 1) work on your user interviews, user narratives, and wireframes  2) 
+  
+## 3.  Agile Project Managment pt 1: Sprint Planning & Trello
+  - **In Class Activities**
+    - *Spring Planning DATE to DATE* - student teams will plan a "Sprint," the industry term for a set period of time to accomplish particular engineering tasks. Professional engineering teams conduct "sprint planning" to prioritize features and bugs, estimate times to complete tasks (also known as "tickets"), and address any other issues the team faces. Throughout the rest of this term, you and your team will use the [sprint planning template](https://docs.google.com/document/u/1/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit?usp=drive_web&ouid=102349547791146369642) to conduct 4 sprints to build your product idea.
+    - *Trello Board Setup* - Trello is a project management software you'll use to coordinate your sprint. Setting up your trello board will help you and your team run your sprints more effectively. You can copy this [Sprint Planning Trello Board template](https://trello.com/b/ftyBKJb3/eng-sprint-board-template).
+  - **After Class** - 1) Conduct your first agile sprint with your team
+  
+ 
+  ## 4.  Git & GitHub part 3: Git Flow, Branches & Merge Conflicts
+  - **In Class Activities**
+    - *Git & Github pt 3 Tutorial* - 4 engineers working off one master branch? Ahhh!! In this tutorial you'll learn industry best practices on how to coordinate your engineering collaboration so you can seemlessly contribute to the same repo.
+  - **After Class** - 1) Finish the inclass activity   2) 
+  
+  
+  ## 5.   Agile Project Managmenet Pt 2: Sprint 1 Retrospective & Sprint 2 planning
+  - **In Class Activities**
+    - *Sprint Retrospectives* - Each Sprint ends with a "Sprint Retrospective" in which teammates reflect on their previous sprint's performance, discuss any team issues that arose, and add new "tickets" to the backlog. You can think of "Sprint Planning" as deciding what to build and the "Sprint Retrospective" as reflecting on how the team can collaborate better. Remember to use the [Meeting Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.10t6cnudbcpw) and the [Sprint Retrospective Trello Board Template](https://trello.com/b/8tEv8Uaj/eng-retro-board-template) to follow best practices.
+    - *Sprint 2 Planning* - Time to plan your next sprint with your team!
+  - **After Class** - 1)  2) 
+  
+  
+  ## 6. Industry Contacts pt 2 
+  - **In Class Activities** - 
+    - *"Cold email" message feedback* - give feedback on a variety of "cold email" messages that other students have written to industry contacts. A cold email is a message to someone you've have never talked with before. Sending cold emails is a critical skill to finding advisors for projects and applying to jobs.
+    - *Thank you message* - Write a thank you message to your previous industry contact. Follow best practices from class to increase the likelihood that industry contacts will want to continue advising in the future.
+    - *Reach out to an industry advisor* - find an industry contact whom you'd like their advice on for your project. This could be someone who is creating a similar product, has expert in your domain or technologies you are using.
+  - **After Class** - 1) send a message out to the industry contact you mentioned  2) continue working on your sprint
+  
+  
+ 
+  ## 7.  Sprint 2 Retrospective, Sprint 3 Planning
+  - **In Class Activities** - 
+    - *Sprint 2 Retrospective* - PM leads a sprint retrospective using the [Sprint Retrospective Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.10t6cnudbcpw)
+    - *Sprint 3 Planning DATE to DATE* - PM leads sprint planning using the [Sprint Planning Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.10t6cnudbcpw)
+  - **After Class** - 1)  2) 
+  
+  
+  
+  
+  ## 1.  Unix Utilities pt 2
+  - **In Class Activities** - 
+    - *XXXXXXXX* - 
+    - *XXXXXXXX* - 
+    - *XXXXXXXX* - 
+    - *XXXXXXXX* - 
+  - **After Class** - 1)  2) 
+  
+  
+  
+  
+  ## 1.  
+  - **In Class Activities** - 
+    - *XXXXXXXX* - 
+    - *XXXXXXXX* - 
+    - *XXXXXXXX* - 
+    - *XXXXXXXX* - 
+  - **After Class** - 1)  2) 
+  
+  
+  
+  
+  ## 1.  
+  - **In Class Activities** - 
+    - *XXXXXXXX* - 
+    - *XXXXXXXX* - 
+    - *XXXXXXXX* - 
+    - *XXXXXXXX* - 
+  - **After Class** - 1)  2) 
+  
+  
+  
+Psych Safety
+Dialogue Debate Discussion
+Boat activity
+
+
 ## Class Assignments [Remove header if you like]
-- **[SPD 1.3 Blog Post: Team Software Development](https://docs.google.com/document/u/1/d/11XGxQ8VA1lovoopqmqZCNHGwWGlHI-JWq12LiOZG6Cs/edit?usp=drive_web&ouid=102349547791146369642)** -  link has the fully fledged assignment. Work on this assignment throughout the course instead of saving it for last minute. This blog post will serve as a valuable portfolio to demonstrate your skill to recruiters.
+- **SPD 1.3 Blog Post: Team Software Development** -  see [link here](https://docs.google.com/document/u/1/d/11XGxQ8VA1lovoopqmqZCNHGwWGlHI-JWq12LiOZG6Cs/edit?usp=drive_web&ouid=102349547791146369642) for fully fledged assignment. Work on this assignment throughout the course instead of saving it for last minute. This blog post will serve as a valuable portfolio to demonstrate your skill to recruiters.
   - Draft due XXXXX, which will be our feedback class
   - Final due XXXXX
   - Grading: [Blog Post Rubric](https://drive.google.com/file/d/1Q7kd-JTwd8COOGNeSD43UoAivwF5_dWZ/view?usp=sharing) will be used to evaluate your work. Students must score an average of 2 or above to pass.
@@ -78,6 +169,12 @@ Students by the end of the course will be able to ...
 - **Intensive: Shipped product** - Term 3 ends with a one week "intensive" soley focused on designing, coding and shiping your own NEW original product. You will present this product at Demo Night.
   - Grading: We'll use this [portfolio project rubric](https://docs.google.com/document/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/edit?usp=drive_web&ouid=102349547791146369642) to evaluate your work. Products must score an average of >2 to pass.
 
+## Resources
+
+- **User Interviews** - user interviews help you understand and validate user needs. Here are user interview [best practices](https://docs.google.com/presentation/d/1xtUGbErF315eKkvVAstTnWzoXLmpygtf6YGTEMYwg_A/edit#slide=id.p) and a [template script](https://docs.google.com/document/d/1uRRKejC3Ullk5vdw9P1SHmE56CGkekH2dIaoBV9ISeM/edit)
+- **Best Practices for User Narratives, Wireframe, Entity Relationship Diagram** - see [best practice articles, videos, and slides](https://docs.google.com/document/d/1uCxdv8N0TltGNS1YLOS8SkD0uLcir0Wg2I9pxS_PL_w/edit#) See [class slides](https://docs.google.com/presentation/d/1ALBDn3bIycimyvnB6fEOAMadDOCA4wmoOO9Z-lpBRsM/edit#slide=id.g3e71f5355a_0_26) here.
+- **Sprint Planning Meetings (1 hour, weekly)** - *[Meeting Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.xffidahcubfs)*. Led by the PM. Team checks their roadmap and evaluate teams’ needs to decide what goes into the next sprint, and assign tasks. Teams can use [planning poker](https://en.wikipedia.org/wiki/Planning_poker) to estimate task effort. Everything is logged into Trello. You can copy this [Sprint Planning Trello Board template](https://trello.com/b/ftyBKJb3/eng-sprint-board-template).
+- **Sprint Retrospective (½ hour, weekly)** - *[Meeting Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.10t6cnudbcpw)*. Complete the old sprint board by checking all tickets and moving incomplete ones over to the next sprint board. Then estimate the tickets that the PM have moved into the board ahead of meeting. Go over what was completed, what went well not if it didn’t go so well, but double check how everyone felt. Anyone feel overloaded on work? Anything the PM could have done differently? [Sprint Retrospective Trello Board Template](https://trello.com/b/8tEv8Uaj/eng-retro-board-template).
 
 ## Evaluation
 [MAKE SPECIFIC TO YOUR COURSE SO IT IS SUPER CLEAR]
