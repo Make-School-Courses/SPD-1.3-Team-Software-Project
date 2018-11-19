@@ -113,12 +113,11 @@ Students by the end of the course will be able to ...
   - **In Class Activities** - 
     - *Sprint 2 Retrospective* - PM leads a sprint retrospective using the [Sprint Retrospective Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.10t6cnudbcpw)
     - *Sprint 3 Planning DATE to DATE* - PM leads sprint planning using the [Sprint Planning Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.10t6cnudbcpw)
-  - **After Class** - 1)  2) 
+  - **After Class** - 1) continue working on your blog posts  2) execute your sprint over the coming week
   
   
   
-  
-  ## 1.  Unix Utilities pt 2
+  ## 1.  BASH and Unix Utilities pt 2
   - **In Class Activities** - 
     - *XXXXXXXX* - 
     - *XXXXXXXX* - 
