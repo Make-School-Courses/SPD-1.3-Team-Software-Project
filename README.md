@@ -27,11 +27,11 @@ SPD 1.2 <br>
 
 Students by the end of the course will be able to ...
 
-1. Manage Sprint Planning, Sprint Planning and SCRUM to
-1. Utilize advanced Git & Github and Unix Utilities
-1. Navigate team dynamics including
-1. Professional Communication
-1. Master
+1. Manage Sprint Planning, Sprint Planning and SCRUM to make progress on team project and ensure highest chances of success
+1. Utilize advanced Git & Github and Unix Utilities to streamline your coding effectiveness
+1. Navigate team dynamics of professional teams including conflict, delegation, prioritization, difficult conversations, expectation setting, defining roles and responsibilities
+1. Demonstrate a diverse and individualized set of professional skills necessary to succeed while at Make School and beyond
+1. Deliver a professional investor pitch for a product, articulating evidence of product-market fit, team competency, and product fidelity
 
 
 
@@ -153,6 +153,7 @@ Students by the end of the course will be able to ...
 TO DO
 - Finalize due dates: assignments, peer reviews, midterm grades
 - Topics of discussion: Psych Safety, Dialogue Debate Discussion, Boat activity, Difficult Conversations, Delegation Exemplar, data analytics
+- Seniors - persuasion forwarding ideas, data anlalytics
 - delegate instructors
 - update dates of delivery
 - Pitch rubric
