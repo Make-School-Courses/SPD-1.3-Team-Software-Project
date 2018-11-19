@@ -76,6 +76,7 @@ Students by the end of the course will be able to ...
     - *Team Formation* - Finalize Teams in the Course Tracker
     - *XXXXXXXX* - Activity that demonstrates the importance of different roles on a team. STORM/NORM/PERFORM
     - *Roles and Responsibilities* - Pick different roles and responsibilities for people on the team. This is one of the 
+    - *Creating Psychological Safety* - Dialogue with your team on how you will create psychological safety
     - *Making and Breaking Expectations* - Dialogue with your team on what you will do if individuals do not follow through on expectations and assigned tasks? What will be the recourse? By having these conversations proactively, you can ensure your team is resilent when people get off course.
     - *User Interviews, User Narratives, Wireframes* - Use the remainder of class to work on your user interviews, user narratives and wireframes.
   - **After Class** - 1) work on your user interviews, user narratives, and wireframes  2) 
@@ -101,58 +102,57 @@ Students by the end of the course will be able to ...
   
   
   ## 6. Industry Contacts pt 2 
-  - **In Class Activities** - 
+  - **In Class Activities**
     - *"Cold email" message feedback* - give feedback on a variety of "cold email" messages that other students have written to industry contacts. A cold email is a message to someone you've have never talked with before. Sending cold emails is a critical skill to finding advisors for projects and applying to jobs.
     - *Thank you message* - Write a thank you message to your previous industry contact. Follow best practices from class to increase the likelihood that industry contacts will want to continue advising in the future.
     - *Reach out to an industry advisor* - find an industry contact whom you'd like their advice on for your project. This could be someone who is creating a similar product, has expert in your domain or technologies you are using.
   - **After Class** - 1) send a message out to the industry contact you mentioned  2) continue working on your sprint
   
-  
  
   ## 7.  Sprint 2 Retrospective, Sprint 3 Planning
   - **In Class Activities** - 
+    - *Difficult Conversation Planning* - learn and apply a framework for approaching difficult conversations at work and in your personal life
     - *Sprint 2 Retrospective* - PM leads a sprint retrospective using the [Sprint Retrospective Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.10t6cnudbcpw)
     - *Sprint 3 Planning DATE to DATE* - PM leads sprint planning using the [Sprint Planning Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.10t6cnudbcpw)
   - **After Class** - 1) continue working on your blog posts  2) execute your sprint over the coming week
   
   
-  
-  ## 1.  BASH and Unix Utilities pt 2
+  ## 8.  BASH and Unix Utilities pt 2
   - **In Class Activities** - 
-    - *XXXXXXXX* - 
-    - *XXXXXXXX* - 
-    - *XXXXXXXX* - 
-    - *XXXXXXXX* - 
-  - **After Class** - 1)  2) 
+    - *Advanced Unix Utilities Tutorial* - 
+  - **After Class** - 1) finish tutorial  2) continue conducting sprint
   
   
-  
-  
-  ## 1.  
+## 9.  Sprint 3 Retrospective, Sprint 4 Planning
   - **In Class Activities** - 
-    - *XXXXXXXX* - 
-    - *XXXXXXXX* - 
-    - *XXXXXXXX* - 
-    - *XXXXXXXX* - 
-  - **After Class** - 1)  2) 
+    - *XXXXX* -
+    - *Sprint 3 Retrospective* - PM leads a sprint retrospective using the [Sprint Retrospective Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.10t6cnudbcpw)
+    - *Sprint 4 Planning DATE to DATE* - PM leads sprint planning using the [Sprint Planning Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.10t6cnudbcpw)
+  - **After Class** - 1) continue working on your blog posts  2) execute your sprint over the coming week
   
-  
-  
-  
-  ## 1.  
+  ## 10.  Myers-Briggs Personality Assessment
   - **In Class Activities** - 
-    - *XXXXXXXX* - 
-    - *XXXXXXXX* - 
-    - *XXXXXXXX* - 
-    - *XXXXXXXX* - 
+    - *Self Assessment* - Take the Myers-Briggs Personality Assessment to measure your tendancies
+    - *Myers Brings Activities* - go through a variety of communication and introspection activities to gain self awareness on your collaboration style and the preferences of others. The [Myers-Briggs](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator) assessment has been used by XXX individuals and is commonly used in corporate settings.
+    - *Personality on your project* - engage in reflection and discussion on how your personality traites have played out on your team.
+  - **After Class** - 1) continue working on your blog posts  2) execute your sprint over the coming week
+  
+  ## 11.  Feedback: Blog Post & Product Pitch
+  - **In Class Activities** - 
+    - *Peer Editing Blog Posts* - We'll peer edit each other's blog posts using the [Blog Post and Writing Rubric](www.make.sc/blog-post-rubric).
+    - *Pracitce Product Pitches* - each team will present their pitch dec and get feedback on it
+    - *SPD 1.3 Course Review for Assessment* - Instructors will give a rapid run-through of all class slides and content to help students prepare for the SPD 1.3 assessment occuring in class. 
   - **After Class** - 1)  2) 
-  
-  
-  
-Psych Safety
-Dialogue Debate Discussion
-Boat activity
 
+
+  ## 12.  Assessment: Test & submit blog post
+   - **In Class Activities**
+        - *Assessment* - you'll take an assessment that cover the content from SPD 1.3. I recommend you review class slides and understand the major ideas taught in each activity. Those who miss this in-class assessment have the option to retake later this week. 
+  - **After Class** - prepare for your team pitch this Wednesday.
+
+
+Finalize due dates: assignments, peer reviews, midterm grades
+Topics of discussion: Psych Safety, Dialogue Debate Discussion, Boat activity, Difficult Conversations, Delegation Exemplar
 
 ## Class Assignments [Remove header if you like]
 - **SPD 1.3 Blog Post: Team Software Development** -  see [link here](https://docs.google.com/document/u/1/d/11XGxQ8VA1lovoopqmqZCNHGwWGlHI-JWq12LiOZG6Cs/edit?usp=drive_web&ouid=102349547791146369642) for fully fledged assignment. Work on this assignment throughout the course instead of saving it for last minute. This blog post will serve as a valuable portfolio to demonstrate your skill to recruiters.
@@ -165,6 +165,9 @@ Boat activity
   - Version 2 due XXXXXXXX, that scores a 2.5 on the [portfolio project rubric](http://make.sc/portfolio-project-rubric)
   - Version 3 due XXXXXXX, that scores a 3 on the [portfolio project rubric](http://make.sc/portfolio-project-rubric)
   - Grading: reference the two rubrics above
+- **Investor/Product Pitch Deck - DUE DATE**
+  - Version 1 due XXXXXXXX
+  - Final Pitches on XXXXXXX 
 - **Intensive: Shipped product** - Term 3 ends with a one week "intensive" soley focused on designing, coding and shiping your own NEW original product. You will present this product at Demo Night.
   - Grading: We'll use this [portfolio project rubric](https://docs.google.com/document/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/edit?usp=drive_web&ouid=102349547791146369642) to evaluate your work. Products must score an average of >2 to pass.
 
