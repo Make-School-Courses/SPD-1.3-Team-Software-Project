@@ -150,9 +150,14 @@ Students by the end of the course will be able to ...
         - *Assessment* - you'll take an assessment that cover the content from SPD 1.3. I recommend you review class slides and understand the major ideas taught in each activity. Those who miss this in-class assessment have the option to retake later this week. 
   - **After Class** - prepare for your team pitch this Wednesday.
 
+TO DO
+- Finalize due dates: assignments, peer reviews, midterm grades
+- Topics of discussion: Psych Safety, Dialogue Debate Discussion, Boat activity, Difficult Conversations, Delegation Exemplar
+- delegate instructors
+- update dates of delivery
+- Pitch rubric
+- PM rubric
 
-Finalize due dates: assignments, peer reviews, midterm grades
-Topics of discussion: Psych Safety, Dialogue Debate Discussion, Boat activity, Difficult Conversations, Delegation Exemplar
 
 ## Class Assignments
 - **SPD 1.3 Blog Post: Team Software Development** -  see [link here](https://docs.google.com/document/u/1/d/11XGxQ8VA1lovoopqmqZCNHGwWGlHI-JWq12LiOZG6Cs/edit?usp=drive_web&ouid=102349547791146369642) for fully fledged assignment. Work on this assignment throughout the course instead of saving it for last minute. This blog post will serve as a valuable portfolio to demonstrate your skill to recruiters.
