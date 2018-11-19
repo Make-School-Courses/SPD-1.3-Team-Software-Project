@@ -152,7 +152,7 @@ Students by the end of the course will be able to ...
 
 TO DO
 - Finalize due dates: assignments, peer reviews, midterm grades
-- Topics of discussion: Psych Safety, Dialogue Debate Discussion, Boat activity, Difficult Conversations, Delegation Exemplar
+- Topics of discussion: Psych Safety, Dialogue Debate Discussion, Boat activity, Difficult Conversations, Delegation Exemplar, data analytics
 - delegate instructors
 - update dates of delivery
 - Pitch rubric
