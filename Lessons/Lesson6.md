@@ -1,4 +1,4 @@
-## 6. Industry Contacts pt 2 
+# Industry Contacts pt 2 
   - **In Class Activities**
     - *"Cold email" message feedback* - give feedback on a variety of "cold email" messages that other students have written to industry contacts. A cold email is a message to someone you've have never talked with before. Sending cold emails is a critical skill to finding advisors for projects and applying to jobs.
     - *Thank you message* - Write a thank you message to your previous industry contact. Follow best practices from class to increase the likelihood that industry contacts will want to continue advising in the future.

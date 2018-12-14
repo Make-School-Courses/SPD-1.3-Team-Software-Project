@@ -1,4 +1,4 @@
-## 3.  Agile Project Managment pt 1: Sprint Planning & Trello
+# Agile Project Managment pt 1: Sprint Planning & Trello
   - **In Class Activities**
     - *Spring Planning DATE to DATE* - student teams will plan a "Sprint," the industry term for a set period of time to accomplish particular engineering tasks. Professional engineering teams conduct "sprint planning" to prioritize features and bugs, estimate times to complete tasks (also known as "tickets"), and address any other issues the team faces. Throughout the rest of this term, you and your team will use the [sprint planning template](https://docs.google.com/document/u/1/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit?usp=drive_web&ouid=102349547791146369642) to conduct 4 sprints to build your product idea.
     - *Trello Board Setup* - Trello is a project management software you'll use to coordinate your sprint. Setting up your trello board will help you and your team run your sprints more effectively. You can copy this [Sprint Planning Trello Board template](https://trello.com/b/ftyBKJb3/eng-sprint-board-template).

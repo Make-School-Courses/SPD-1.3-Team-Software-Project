@@ -1,4 +1,4 @@
-## 9.  Sprint 3 Retrospective, Sprint 4 Planning
+# Sprint 3 Retrospective, Sprint 4 Planning
   - **In Class Activities** - 
     - *Site Analyitics* - install an analytics tool to your site in order to measure bounce, conversion, and sources of traffic.
     - *Sprint 3 Retrospective* - PM leads a sprint retrospective using the [Sprint Retrospective Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.10t6cnudbcpw)

@@ -1,4 +1,4 @@
-## 2.  Team Formation, Roles & Responsibilities
+# Team Formation, Roles & Responsibilities
   - **In Class Activities** - 
     - *Team Formation* - Finalize Teams in the Course Tracker
     - *XXXXXXXX* - Activity that demonstrates the importance of different roles on a team. STORM/NORM/PERFORM
