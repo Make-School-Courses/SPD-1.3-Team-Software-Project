@@ -92,7 +92,7 @@ TO DO
 [SPD 1.3 Blog Post: Team Software Development]: Assignments/blog-post.md
 [Term 3: Product]: Assignments/product.md
 [Investor/Product Pitch Deck]: Assignments/pitch-deck.md
-[Intensive: Shipped Product]: Assignments/shipped.product.md
+[Intensive: Shipped Product]: Assignments/shipped-product.md
 
 ## Resources
 
