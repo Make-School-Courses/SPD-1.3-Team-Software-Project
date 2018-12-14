@@ -81,21 +81,18 @@ TO DO
 
 
 ## Class Assignments
-- **SPD 1.3 Blog Post: Team Software Development** -  see [link here](https://docs.google.com/document/u/1/d/11XGxQ8VA1lovoopqmqZCNHGwWGlHI-JWq12LiOZG6Cs/edit?usp=drive_web&ouid=102349547791146369642) for fully fledged assignment. Work on this assignment throughout the course instead of saving it for last minute. This blog post will serve as a valuable portfolio to demonstrate your skill to recruiters.
-  - Draft due XXXXX, which will be our feedback class
-  - Final due XXXXX
-  - Grading: [Blog Post Rubric](https://drive.google.com/file/d/1Q7kd-JTwd8COOGNeSD43UoAivwF5_dWZ/view?usp=sharing) will be used to evaluate your work. Students must score an average of 2 or above to pass.
-- Classroom activities mentioned below
-- **Term 3: Product - DUE DATE**
-  - Version 1 due XXXXXXXX, shipped “skateboard” that scores a 3 on the [portfolio project rubric](http://make.sc/portfolio-project-rubric) excluding "write up" row.
-  - Version 2 due XXXXXXXX, that scores a 2.5 on the [portfolio project rubric](http://make.sc/portfolio-project-rubric)
-  - Version 3 due XXXXXXX, that scores a 3 on the [portfolio project rubric](http://make.sc/portfolio-project-rubric)
-  - Grading: reference the two rubrics above
-- **Investor/Product Pitch Deck - DUE DATE**
-  - Version 1 due XXXXXXXX
-  - Final Pitches on XXXXXXX 
-- **Intensive: Shipped product** - Term 3 ends with a one week "intensive" soley focused on designing, coding and shiping your own NEW original product. You will present this product at Demo Night.
-  - Grading: We'll use this [portfolio project rubric](https://docs.google.com/document/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/edit?usp=drive_web&ouid=102349547791146369642) to evaluate your work. Products must score an average of >2 to pass.
+### [SPD 1.3 Blog Post: Team Software Development] - DUE DATE:
+
+### [Term 3: Product] - DUE DATE:
+
+### [Investor/Product Pitch Deck]- DUE DATE:
+
+### [Intensive: Shipped Product] - DUE DATE:
+
+[SPD 1.3 Blog Post: Team Software Development]: Assignments/blog-post.md
+[Term 3: Product]: Assignments/product.md
+[Investor/Product Pitch Deck]: Assignments/pitch-deck.md
+[Intensive: Shipped Product]: Assignments/shipped.product.md
 
 ## Resources
 
