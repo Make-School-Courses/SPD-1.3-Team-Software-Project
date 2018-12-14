@@ -37,32 +37,38 @@ Students by the end of the course will be able to ...
 
 ## Schedule
 
-**Course Dates:** Wednesday, January 23 – Thursday, December 13, 2018 (7 weeks)
+**Course Dates:** Wednesday, January 23 – Thursday, March 6, 2019 (7 weeks)
 
-**Class Times:** Class Times: Monday and Wednesday sections between 10:00am-12:30pm (13 class sessions)
+**Class Times:** Class Times: Monday and Wednesday sections between 10:00am-12:30pm (10 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  Wk 1  |  Wednesday, January 23    | [Lesson 1] |
-|  Wk 2   |  Monday, January 28   | [Lesson 2] |
-|  Wk 2   |  Wednesday, January 30  | [Lesson 1] |
-|  Wk 2   | Monday, February 4  | [Lesson 1] |
-|   5   |  Wednesday, February 6 | [Lesson 1] |
-|   6   | Monday, Febuary 11 | [Lesson 1] |
-|   7   |  Wednesday, February 13 | [Lesson 1] |
-|   8   | Monday, January 28 | [Lesson 1] |
-|      |  Tuesday, November 20 | **Don Rags** |
-|     | Monday, January 28 | **Fall Break** |
-|  9   |  Tuesday, November 27    | [Lesson 1] |
-|  10   | Monday, January 28    | [Lesson 1] |
-|  11     |  Tuesday, December 4    | [Lesson 1] |
-|  12   | Monday, January 28   | [Lesson 1] |
-|  13   | Tuesday, December 11   | Final Exams |
-|  14   | Thursday, December 13   | Final Class (presentations, etc) |
+|  Wk 1 | Wednesday, January 23    | [Lesson 1] |
+|  Wk 2 | Monday, January 28             | [Lesson 2] |
+|  Wk 2 |  Wednesday, January 30             | [Lesson 3] |
+|  Wk 3 | Monday, February 4             | [Lesson 4] |
+|  Wk 3 |  Wednesday, February 6             | [Lesson 5] |
+|  Wk 4 | Monday, February 11             | [Lesson 6] |
+|  Wk 4 |  Wednesday, February 13            | [Lesson 7] |
+|  Wk 5  | Monday, February 18             | **President's Day** |
+|  Wk 5 |  Wednesday, February 20            | [Lesson 8] |
+|  Wk 6 | Monday, February 25             | [Lesson 9] |
+|  Wk 6 |  Wednesday, February 27            | [Lesson 10] |
+|  Wk 7 | Monday, March 4             | Final Exams |
+|  Wk 7 |  Wednesday, March 6            | Final Class (presentations, etc) |
 
 [Lesson 1]: Lessons/Lesson1.md
 [Lesson 2]: Lessons/Lesson2.md
 [Lesson 3]: Lessons/Lesson3.md
+[Lesson 4]: Lessons/Lesson4.md
+[Lesson 5]: Lessons/Lesson5.md
+[Lesson 6]: Lessons/Lesson6.md
+[Lesson 7]: Lessons/Lesson7.md
+[Lesson 8]: Lessons/Lesson8.md
+[Lesson 9]: Lessons/Lesson9.md
+[Lesson 10]: Lessons/Lesson10.md
+[Lesson 11]: Lessons/Lesson11.md
+[Lesson 12]: Lessons/Lesson12.md
 
 ## 1. Ideation, Elevator Pitches, & Team Formation
   - **In Class Activities** - 
