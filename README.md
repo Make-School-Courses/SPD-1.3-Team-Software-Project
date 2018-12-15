@@ -37,25 +37,28 @@ Students by the end of the course will be able to ...
 
 ## Schedule
 
-**Course Dates:** Wednesday, January 23 – Thursday, March 6, 2019 (7 weeks)
+**Course Dates:** Monday, January 21 – Thursday, March 6, 2019 (7 weeks)
 
 **Class Times:** Class Times: Monday and Wednesday sections between 10:00am-12:30pm (10 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  Wk 1 | Wednesday, January 23    | [Lesson 1] |
-|  Wk 2 | Monday, January 28             | [Lesson 2] |
-|  Wk 2 |  Wednesday, January 30             | [Lesson 3] |
-|  Wk 3 | Monday, February 4             | [Lesson 4] |
-|  Wk 3 |  Wednesday, February 6             | [Lesson 5] |
-|  Wk 4 | Monday, February 11             | [Lesson 6] |
-|  Wk 4 |  Wednesday, February 13            | [Lesson 7] |
-|  Wk 5  | Monday, February 18             | **President's Day** |
-|  Wk 5 |  Wednesday, February 20            | [Lesson 8] |
-|  Wk 6 | Monday, February 25             | [Lesson 9] |
-|  Wk 6 |  Wednesday, February 27            | [Lesson 10] |
-|  Wk 7 | Monday, March 4             | Final Exams |
-|  Wk 7 |  Wednesday, March 6            | Final Class (presentations, etc) |
+|  -  | Monday, January 21             | **MLK Jr. Day** |
+|  1 | Wednesday, January 23    | [Lesson 1] |
+|  2 | Monday, January 28             | [Lesson 2] |
+|  3 |  Wednesday, January 30             | [Lesson 3] |
+|  4 | Monday, February 4             | [Lesson 4] |
+|  5 |  Wednesday, February 6             | [Lesson 5] |
+|  6 | Monday, February 11             | [Lesson 6] |
+|  7 |  Wednesday, February 13            | [Lesson 7] |
+|  -  | Monday, February 18             | **President's Day (Observed)** |
+|  8  | **Tuesday, February 19**             | [Lesson 8] |
+|  9 |  Wednesday, February 20            | [Lesson 9] |
+|  10 | Monday, February 25             | [Lesson 10] |
+|  11 |  Wednesday, February 27            | [Lesson 11] |
+|  12 | Monday, March 4             | Final Class (presentations, etc) |
+|  13 |  Wednesday, March 6            | Final Exams/Presentations |
+
 
 [Lesson 1]: Lessons/Lesson1.md
 [Lesson 2]: Lessons/Lesson2.md
@@ -81,6 +84,23 @@ TO DO
 
 
 ## Class Assignments
+### Coding Projects
+**All coding projects will require a minimum of 10 commits, and must take place throughout the entirety of the course**
+
+- **Good Example:** 40+ commits throughout the length of the course, looking for a healthy spattering of commits each week (such as 3-5 per day).
+- **Bad Example:** 10 commits on one day during the course and no others. Students who do this will be at severe risk of not passing the class.
+- **Unacceptable Example:** 2 commits the day before a project is due. Students who do this should not expect to pass the class. 
+
+#### Why are we doing this?
+
+We want to encourage best practices that you will see working as a professional software engineer. Breaking up a project by doing a large amount of commits helps engineers in the following ways:
+
+- It's much easier to retrace your steps if you break your project/product/code up into smaller pieces
+- It helps with being able to comprehend the larger problem, and also will help with your debugging (i.e. finding exactly when you pushed that piece of broken code)
+- It allows for more streamlined, iterative communication in your team, as it's much easier to hand off a small change to someone (updating a function) than a huge one (changed the architecture of the project)
+
+Through this requirement, we hope to encourage you to think about projects with an iterative, modular mindset. Doing so will allow you to break projects down into smaller milestones that come together to make your fully-realized solution.
+
 ### [SPD 1.3 Blog Post: Team Software Development] - DUE DATE:
 
 ### [Term 3: Product] - DUE DATE:
