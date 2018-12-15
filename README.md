@@ -39,7 +39,7 @@ Students by the end of the course will be able to ...
 
 **Course Dates:** Monday, January 21 – Thursday, March 6, 2019 (7 weeks)
 
-**Class Times:** Class Times: Monday and Wednesday sections between 10:00am-12:30pm (10 class sessions)
+**Class Times:** Class Times: Monday and Wednesday sections between 10:00am-12:30pm (13 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
