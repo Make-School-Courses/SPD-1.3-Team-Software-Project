@@ -20,14 +20,17 @@ User Interviews
 1. User Interview structure with unbiased open-ended questions, and reference demographics
 1. Notes from Each User Interviews 
 1. Notes on insights or pivots gleaned 
+
 User Journeys
 1. At least 2-3 *User Journeys*
 1. User Journeys address user demographics 
 1. User Journeys address step by step actions users take on your site
+
 Wireframes
 1. At least 4-5 WireFrames of screens
 1. At least 4-5 User Tests of Wireframes
 1. Written reflection on design improvements you'll make after wireframe testing
+
 Entity Relationship Diagrams (ERDs)
 1. ERD of an early version of your site
 1. Entitied are accurately labeled in ERD
@@ -37,6 +40,12 @@ Entity Relationship Diagrams (ERDs)
 ## Resources
 The following [articles, resources, and tools]() are provided to assist in your creation of deliverables
 
+## Deadlines
+1. All items are started on Class 2 and **due Class 4**
+1. All items will be reviewed before class 6
+
+## Additional Resources
+1. [Grading Rubric]()
 
 Must recieve higher than '70%' to pass this project.
 
