@@ -23,12 +23,12 @@ Class Sessions:  14 classes, 7 labs
 
 SPD 1.2 <br>
 
-## Learning Objectives or Competencies (5-8)
+## Learning Objectives
 
 Students by the end of the course will be able to ...
 
-1. Manage Sprint Planning and Sprint Retrospectives and SCRUM to make progress on team project and ensure highest chances of success
-1. Utilize advanced Git & Github and Unix Utilities to streamline your coding effectiveness
+1. Manage Sprint Planning and Sprint Retrospectives and SCRUM to make progress on a team project and ensure the highest chances of success
+1. Utilize advanced Git, Github and Unix Utilities to streamline their coding effectiveness
 1. Navigate dynamics of professional teams including conflict, delegation, prioritization, difficult conversations, expectation setting, defining roles and responsibilities
 1. Demonstrate a diverse and individualized set of professional skills necessary to succeed while at Make School and beyond
 1. Deliver a professional investor pitch for a product, articulating evidence of product-market fit, team competency, and product fidelity
