@@ -35,10 +35,10 @@ Tips:
       - Write client side scripts
       - Contribute code to the project
       - Design and QA
-      - Design front end
+     Design front end
       - Conduct user interviews, user tests
       - Contribute code to the project
-     Gitmaster
+    Gitmaster
       - Owns git flow and git flow strategy
       - Troubleshoots messy merges
       - Owns tracking issues and bugs
