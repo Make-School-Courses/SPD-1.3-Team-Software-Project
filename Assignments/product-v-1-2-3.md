@@ -26,28 +26,28 @@ Tips:
     - (Sometimes) Owns go to market strategy and product marketing
     - Contributes code to the project
   - Backend lead
-Database creation, integration and management
-Server setup, API etc
-Coordinate stack with front end developer
-Write unit tests
-Contribute code to the project
-Frontend lead 
-Write client side scripts
-Contribute code to the project
-Design and QA
-Design front end
-Conduct user interviews, user tests
-Contribute code to the project
-Gitmaster
-Owns git flow and git flow strategy
-Troubleshoots messy merges
-Owns tracking issues and bugs
-Owns documentation
-Contribute code to the project
+    - Database creation, integration and management
+    - Server setup, API etc
+    - Coordinate stack with front end developer
+    - Write unit tests
+    - Contribute code to the project
+   Frontend lead 
+    - Write client side scripts
+    - Contribute code to the project
+    - Design and QA
+    - Design front end
+    - Conduct user interviews, user tests
+    - Contribute code to the project
+   Gitmaster
+    - Owns git flow and git flow strategy
+    - Troubleshoots messy merges
+    - Owns tracking issues and bugs
+    - Owns documentation
+    - Contribute code to the project
 1. **Tip 7: Clarify "Ownership":** In addition to the “area” role ownership above, teammates should own individual “tasks” - action items (often captured in trello) that have a defined deliverable and timeline. “Tasks” are assigned and reviewed during Sprint Planning meetings. You may do tasks outside of your “Area” of ownership.
 
 
-Resources:
+## Resources:
 - **Daily Standup** - Make a slack channel for your team, or meet 15 minutes before huddles daily to share what you've accomplished, what you are working on, and any blockers. Just like a professional standup - this enables you to 
 - **Sprint Planning Meetings (1 hour, weekly)** - *[Meeting Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.xffidahcubfs)*. Led by the PM. Team checks their roadmap and evaluate teams’ needs to decide what goes into the next sprint, and assign tasks. Teams can use [planning poker](https://en.wikipedia.org/wiki/Planning_poker) to estimate task effort. Everything is logged into Trello. You can copy this [Sprint Planning Trello Board template](https://trello.com/b/X1lSjDnd/eng-sprint-board-template).
 - **Sprint Retrospective (½ hour, weekly)** - *[Meeting Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.10t6cnudbcpw)*. Complete the old sprint board by checking all tickets and moving incomplete ones over to the next sprint board. Then estimate the tickets that the PM have moved into the board ahead of meeting. Go over what was completed, what went well not if it didn’t go so well, but double check how everyone felt. Anyone feel overloaded on work? Anything the PM could have done differently? [Sprint Retrospective Trello Board Template](https://trello.com/b/qRzOdBvj/eng-retro-board-template).
@@ -65,4 +65,3 @@ Resources:
 - Product Planning - graded via wireframes, user narratives, ERD deliverable
 - Impact & Creativity - graded via live product
 - Teamwork & Agile/SCRUM (if working on team)- graded via trello board
-
