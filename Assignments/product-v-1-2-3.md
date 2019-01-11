@@ -1,4 +1,4 @@
-# Term 3: Product - DUE DATE
+# Term 3: Product
 
 Three versions of your team's amazing app or site!
 
