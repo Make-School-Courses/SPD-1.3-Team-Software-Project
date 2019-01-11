@@ -15,8 +15,8 @@ Tips:
 1. **Tip 1: Utilize each Wednesday class as a Sprint Planning & Retrospective Meeting** - Each Wed class will start with a brief lesson and then you'll have 90 minutes to meet with your team.
 1. **Tip 2: Create a slack channel for your team or consider meet daily before huddles for Standup**
 1. **Tip 3: Pair or quad programming** start your project by pair programming - even quad programming - to ensure you all are aligned in terms of variable semantics, comment and module structure, etc ... 
-1. advisors
-1. figuring out how to do - protocol .. seniors
+1. **Tip 4: Get a technical advisor**: ask a technical instructor to be your advisor. You can ask them questions when your team gets stuck, include them in your slack channel, and ask for code reviews.
+1. **Tip 5: Decided on your team's communication protocol**: decide when you will meet, how frequently. Decide how you will hold each other accountable.
 
 Resources:
 - **Daily Standup** - Make a slack channel for your team, or meet 15 minutes before huddles daily to share what you've accomplished, what you are working on, and any blockers. Just like a professional standup - this enables you to 
@@ -24,15 +24,16 @@ Resources:
 - **Sprint Retrospective (½ hour, weekly)** - *[Meeting Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.10t6cnudbcpw)*. Complete the old sprint board by checking all tickets and moving incomplete ones over to the next sprint board. Then estimate the tickets that the PM have moved into the board ahead of meeting. Go over what was completed, what went well not if it didn’t go so well, but double check how everyone felt. Anyone feel overloaded on work? Anything the PM could have done differently? [Sprint Retrospective Trello Board Template](https://trello.com/b/8tEv8Uaj/eng-retro-board-template).
 
 ## Rubric and Evaluation
-- Final product must score at least a 
-
-
-
-
+- Final product must score at least a 2 on the [Portfolio Project rubrics](http://www.make.sc/portfolio-project-rubric/) though teams should strive to score a 3.
 
 ## Rubric rows are evaluated based on the following:
--
--
--
--
-- Grading: reference the two rubrics above
+- Shipped row - graded via live app
+- Technical Complexity - graded via live app and Github
+- Timeliness & Stakeholder Management- 
+- UX/UI - graded via live app & wireframes/designs
+- Code Craftsmanship & Documentation - graded via github
+- Scoping & Risk Management - graded via project
+- Product Planning - graded via wireframes, user narratives, ERD deliverable
+- Impact & Creativity - graded via live product
+- Teamwork & Agile/SCRUM (if working on team)- graded via trello board
+
