@@ -31,8 +31,8 @@ Tips:
       - Coordinate stack with front end developer
       - Write unit tests
       - Contribute code to the project
-     Frontend lead 
-      - Write client side scripts
+    Frontend lead
+        - Write client side scripts
       - Contribute code to the project
       - Design and QA
      Design front end
