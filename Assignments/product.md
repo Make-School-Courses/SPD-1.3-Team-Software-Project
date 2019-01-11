@@ -4,15 +4,19 @@ Three versions of your team's amazing app or site!
 
 ## Deliverables
 
-- Version 1 due XXXXXXXX, shipped “skateboard” that scores at least a 1 on 80% of the rows on the [portfolio project rubric](http://make.sc/portfolio-project-rubric) excluding "write up" row.
-- Version 2 due XXXXXXXX, that scores a 2 on the [portfolio project rubric](http://make.sc/portfolio-project-rubric) excluding "write up" row.
-- Version 3 due XXXXXXX, that scores a 2.5-3 on the [portfolio project rubric](http://make.sc/portfolio-project-rubric) excluding "write up" row.
+- Version 0 due 2/6/19 - MVP shipped “skateboard” that CRUDs one resource
+- Version 1 due Wed 2/13/19,  that scores at least a 1 on the [portfolio project rubric](http://make.sc/portfolio-project-rubric) excluding "write up" row.
+- Version 2 due 2/20/19, that scores a 2 on the [portfolio project rubric](http://make.sc/portfolio-project-rubric) excluding "write up" row.
+- Version 3 due 3/6/19, that scores a 2.5-3 on the [portfolio project rubric](http://make.sc/portfolio-project-rubric) excluding "write up" row.
 
 ## Work Planning
 
 Tips:
-1. **Tip: Utilize each Wednesday class as a Sprint Planning & Retrospective Meeting** - Each Wed class will start with a brief lesson and then you'll have 90 minutes to meet with your team.
-1. **Tip: Create a slack channel for your team or consider meet daily before huddles for Standup**
+1. **Tip 1: Utilize each Wednesday class as a Sprint Planning & Retrospective Meeting** - Each Wed class will start with a brief lesson and then you'll have 90 minutes to meet with your team.
+1. **Tip 2: Create a slack channel for your team or consider meet daily before huddles for Standup**
+1. **Tip 3: Pair or quad programming** start your project by pair programming - even quad programming - to ensure you all are aligned in terms of variable semantics, comment and module structure, etc ... 
+1. advisors
+1. figuring out how to do - protocol .. seniors
 
 Resources:
 - **Daily Standup** - Make a slack channel for your team, or meet 15 minutes before huddles daily to share what you've accomplished, what you are working on, and any blockers. Just like a professional standup - this enables you to 
@@ -20,7 +24,7 @@ Resources:
 - **Sprint Retrospective (½ hour, weekly)** - *[Meeting Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.10t6cnudbcpw)*. Complete the old sprint board by checking all tickets and moving incomplete ones over to the next sprint board. Then estimate the tickets that the PM have moved into the board ahead of meeting. Go over what was completed, what went well not if it didn’t go so well, but double check how everyone felt. Anyone feel overloaded on work? Anything the PM could have done differently? [Sprint Retrospective Trello Board Template](https://trello.com/b/8tEv8Uaj/eng-retro-board-template).
 
 ## Rubric and Evaluation
-- table
+- Final product must score at least a 
 
 
 
