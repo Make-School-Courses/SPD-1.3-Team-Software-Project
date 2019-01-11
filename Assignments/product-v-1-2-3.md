@@ -17,6 +17,35 @@ Tips:
 1. **Tip 3: Pair or quad programming** start your project by pair programming - even quad programming - to ensure you all are aligned in terms of variable semantics, comment and module structure, etc ... 
 1. **Tip 4: Get a technical advisor**: ask a technical instructor to be your advisor. You can ask them questions when your team gets stuck, include them in your slack channel, and ask for code reviews.
 1. **Tip 5: Decided on your team's communication protocol**: decide when you will meet, how frequently. Decide how you will hold each other accountable.
+1. **Tip 6: pick roles:** Each student should pick a primary role that they “own.” “Own” means that you are the individual directly responsible for executing that part of the project. In addition to owning an area, all students will contribute to other parts of the project. 
+  - Product Manager (PM) and SCRUM Master:
+    -Manages sprint, retrospectives, and demo meetings
+    - Owns the trello board, manages planning poker
+    - Owns unblocking teammates and fostering collaboration
+    - Owns communication with the client
+    - (Sometimes) Owns go to market strategy and product marketing
+    - Contributes code to the project
+  - Backend lead
+Database creation, integration and management
+Server setup, API etc
+Coordinate stack with front end developer
+Write unit tests
+Contribute code to the project
+Frontend lead 
+Write client side scripts
+Contribute code to the project
+Design and QA
+Design front end
+Conduct user interviews, user tests
+Contribute code to the project
+Gitmaster
+Owns git flow and git flow strategy
+Troubleshoots messy merges
+Owns tracking issues and bugs
+Owns documentation
+Contribute code to the project
+1. **Tip 7: Clarify "Ownership":** In addition to the “area” role ownership above, teammates should own individual “tasks” - action items (often captured in trello) that have a defined deliverable and timeline. “Tasks” are assigned and reviewed during Sprint Planning meetings. You may do tasks outside of your “Area” of ownership.
+
 
 Resources:
 - **Daily Standup** - Make a slack channel for your team, or meet 15 minutes before huddles daily to share what you've accomplished, what you are working on, and any blockers. Just like a professional standup - this enables you to 
