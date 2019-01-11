@@ -2,7 +2,7 @@
 
 Three versions of your team's amazing app or site!
 
-## Deliverables
+## Deliverable Due Dates
 
 - Version 0 due 2/6/19 - MVP shipped “skateboard” that CRUDs one resource
 - Version 1 due Wed 2/13/19,  that scores at least a 1 on the [portfolio project rubric](http://make.sc/portfolio-project-rubric) excluding "write up" row.
