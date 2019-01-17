@@ -1,4 +1,4 @@
-# Term 3: Product
+# Term 3: Team Software Product
 
 Four versions of your team's amazing app or site are due on the dates listed below!
 
