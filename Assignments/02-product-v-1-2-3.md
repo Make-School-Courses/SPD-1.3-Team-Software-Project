@@ -1,6 +1,6 @@
 # Term 3: Product
 
-Three versions of your team's amazing app or site!
+Four versions of your team's amazing app or site are due on the dates listed below!
 
 ## Deliverable Due Dates
 
