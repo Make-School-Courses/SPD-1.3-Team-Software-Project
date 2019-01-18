@@ -1,10 +1,10 @@
 # SPD 1.3 Blog Post: Team Software Development
 
-Hone your product focus by creating these essential product deliverables.
+Hone your product focus, scope and design by creating these product mock-up deliverables.
 
 ## Deadlines
 1. All items are started on Class 2 and **due Class 4**
-1. All items will be reviewed before class 6
+  1. Feedback will be given by a TA/Instructor on all deliverables before class 6
 
 ## Objectives
 
