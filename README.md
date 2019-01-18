@@ -101,11 +101,10 @@ Through this requirement, we hope to encourage you to think about projects with 
 - **Teamwork Rubric** - [rubric](https://docs.google.com/document/d/1d-K-DCbIvCOfmqIeoTAjoTg3LmiqXZc-RsTnIi3WAUg/edit) for individual performance on team and full team performance
 
 ## Evaluation
-[MAKE SPECIFIC TO YOUR COURSE SO IT IS SUPER CLEAR]
 To pass this course you must meet the following requirements:
 
 - Complete all required tutorials
-- Pass all projects according to the associated project rubric
+- Pass all projects according to the associated project rubric (see [this folders](https://github.com/Make-School-Courses/SPD-1.3-Team-Software-Project/tree/master/Assignments) for project requirements and evaluation)
 - Pass the final summative assessment >=75%
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
