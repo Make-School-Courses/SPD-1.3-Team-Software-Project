@@ -56,8 +56,8 @@ Students by the end of the course will be able to ...
 |  9 |  Wednesday, February 20            | [Lesson 9] |
 |  10 | Monday, February 25             | [Lesson 10] |
 |  11 |  Wednesday, February 27            | [Lesson 11] |
-|  12 | Monday, March 4             | Final Class (presentations, etc) |
-|  13 |  Wednesday, March 6            | Final Exams/Presentations |
+|  12 | Monday, March 4             | Assessment |
+|  13 |  Wednesday, March 6            | Final Presentations |
 
 
 [Lesson 1]: Lessons/Lesson1.md
