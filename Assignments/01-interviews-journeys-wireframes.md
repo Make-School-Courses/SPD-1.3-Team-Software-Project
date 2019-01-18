@@ -2,6 +2,10 @@
 
 Hone your product focus by creating these essential product deliverables.
 
+## Deadlines
+1. All items are started on Class 2 and **due Class 4**
+1. All items will be reviewed before class 6
+
 ## Objectives
 
 1. *Define product focus and UI* using User Interviews, User Journies, Wireframes, and ERDs
@@ -13,45 +17,60 @@ Hone your product focus by creating these essential product deliverables.
 * Make the document "viewable to anyone with the link" by clicking into the sharing settings
 * Put links to each document into the SPD 1.3 Tracker
 
+## Resources
+The following [articles, resources, and tools](https://docs.google.com/document/d/1uCxdv8N0TltGNS1YLOS8SkD0uLcir0Wg2I9pxS_PL_w/edit) are provided to assist in your creation of deliverables.
+
 ## Project Requirements
 
-User Interviews
-1. At least 4-5 *User Interviews*
-1. User Interview structure with unbiased open-ended questions, and reference demographics
-1. Notes from Each User Interviews 
-1. Notes on insights or pivots gleaned 
+Must recieve higher than '70%' to pass this project.
 
-User Journeys
-1. At least 2-3 *User Journeys*
-1. User Journeys address user demographics 
-1. User Journeys address step by step actions users take on your site
+### User Interview Requirements (25%)
 
-Wireframes
-1. At least 4-5 WireFrames of screens
-1. At least 4-5 User Tests of Wireframes
-1. Written reflection on design improvements you'll make after wireframe testing
+| Criteria | Points | Score |
+| -------- | ------ | ----- |
+| Conducted 4-5 User Interviews | 30 | |
+| Questions are unbiased, open-ended, has demographics | 25 | |
+| Took notes on interviewee responses | 25 | |
+| 1 paragraph or list of insights, pivots gleaned from interviews if any | 10 | |
+| On-time submission | 10 | |
 
-Entity Relationship Diagrams (ERDs)
-1. ERD of an early version of your site
-1. Entitied are accurately labeled in ERD
-1. Actions are accurately labeled in ERD
-1. Attributes are accurately labeled in ERD
+### User Journey Requirements (25%)
 
-## Resources
-The following [articles, resources, and tools]() are provided to assist in your creation of deliverables
+| Criteria | Points | Score |
+| -------- | ------ | ----- |
+| 2-3 User Journeys | 50 | |
+| Addresses demographics | 20 | |
+| Step-by-step actions user takes on site | 20 | |
+| On-time submission | 10 | |
 
-## Deadlines
-1. All items are started on Class 2 and **due Class 4**
-1. All items will be reviewed before class 6
+### Wireframe Requirements (25%)
 
-## Additional Resources
-1. [Grading Rubric]()
+| Criteria | Points | Score |
+| -------- | ------ | ----- |
+| Wireframes (hand-drawn or digital) for 4-5 screens | 50 | |
+| Notes on 4-5 tests of Wireframe | 30 | |
+| Written reflection on design improvements you'll make | 10 | |
+| On-time submission | 10 | |
+
+### ERD Requirements (25%)
+
+| Criteria | Points | Score |
+| -------- | ------ | ----- |
+| ERD correctly labeled | 45 | |
+| Entitied correctly labeled | 15 | |
+| Actions correctly labeled | 15 | |
+| Attributes correctly labeled | 15 | |
+| On-time submission | 10 | |
+
+### Final Score
+
+| Section | Possible | Earned | Final (%) |
+| ------- | -------- | ------ | --------- |
+| User Interviews | 100 | | |
+| User Journey | 100 | | |
+| Wireframe | 100 | | |
+| ERD | 100 | | |
+| TOTAL | 400 | | |
 
 
 
-See [link here](https://docs.google.com/document/u/1/d/11XGxQ8VA1lovoopqmqZCNHGwWGlHI-JWq12LiOZG6Cs/edit?usp=drive_web&ouid=102349547791146369642) for fully fledged assignment. Work on this assignment throughout the course instead of saving it for last minute. This blog post will serve as a valuable portfolio to demonstrate your skill to recruiters.
-
-- Draft due XXXXX, which will be our feedback class
-- Final due XXXXX
-- Grading: [Blog Post Rubric](https://drive.google.com/file/d/1Q7kd-JTwd8COOGNeSD43UoAivwF5_dWZ/view?usp=sharing) will be used to evaluate your work. Students must score an average of 2 or above to pass.
-- Classroom activities mentioned below
