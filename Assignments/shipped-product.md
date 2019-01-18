@@ -1,4 +1,4 @@
-# Intensive: Shipped product
+# Intensive: Shipped product (AFTER TERM 3)
 
 - Term 3 ends with a one week "intensive" soley focused on designing, coding and shiping your own NEW original product. You will present this product at Demo Night.
 - Grading: We'll use this [portfolio project rubric](https://docs.google.com/document/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/edit?usp=drive_web&ouid=102349547791146369642) to evaluate your work. Products must score an average of >2 to pass.
