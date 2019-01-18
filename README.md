@@ -73,15 +73,6 @@ Students by the end of the course will be able to ...
 [Lesson 11]: Lessons/Lesson11.md
 [Lesson 12]: Lessons/Lesson12.md
 
-TO DO
-- Finalize due dates: assignments, peer reviews, midterm grades
-- Topics of discussion: Psych Safety, Dialogue Debate Discussion, Boat activity, Difficult Conversations, Delegation Exemplar, data analytics
-- Seniors - persuasion forwarding ideas, data anlalytics
-- delegate instructors
-- update dates of delivery
-- Pitch rubric
-- PM rubric
-
 
 ## Class Assignments
 ### Coding Projects
@@ -100,19 +91,6 @@ We want to encourage best practices that you will see working as a professional 
 - It allows for more streamlined, iterative communication in your team, as it's much easier to hand off a small change to someone (updating a function) than a huge one (changed the architecture of the project)
 
 Through this requirement, we hope to encourage you to think about projects with an iterative, modular mindset. Doing so will allow you to break projects down into smaller milestones that come together to make your fully-realized solution.
-
-### [SPD 1.3 Blog Post: Team Software Development] - DUE DATE:
-
-### [Term 3: Product] - DUE DATE:
-
-### [Investor/Product Pitch Deck]- DUE DATE:
-
-### [Intensive: Shipped Product] - DUE DATE:
-
-[SPD 1.3 Blog Post: Team Software Development]: Assignments/blog-post.md
-[Term 3: Product]: Assignments/product.md
-[Investor/Product Pitch Deck]: Assignments/pitch-deck.md
-[Intensive: Shipped Product]: Assignments/shipped-product.md
 
 ## Resources
 
