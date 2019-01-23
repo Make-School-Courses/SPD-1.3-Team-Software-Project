@@ -1,6 +1,6 @@
 # Ideation, Elevator Pitches, & Team Formation ([Class Slides](https://docs.google.com/presentation/d/1ehSK9CTPBujP9Lh_hbp1palaxyCsGRR2nfKe02IX48Q/edit#slide=id.g4d725bec2f_0_0))
   - **In Class Activities** - 
-    - *Idea Brainstorm* - Explore different industries and emerging technologies to brainstorm ideas for your term 3 project.
+    - *Idea Brainstorm* - Explore different industries and emerging technologies to brainstorm ideas for your term 3 project. [Worksheet from class](https://docs.google.com/document/d/19vguwtdTsDwCesEBm-pjuk3B-ssLNubETny0sM0lguc/edit#)
     - *Teamwork Reflection* - Once again, let's improve our collaboration abilities. Pair up with your partner from LAST term and reflect on what you did well and what could be improved. Use the [teamwork rubric](make.sc/teamwork-rubric) to individually evaluate the  performance of your teammate and your overall team performance. List out the top 2-3 things each of you want to do to improve your teamwork skills for this term's project.
     - *Team Trust* - go through a series of prompts and reflection to establish a foundation of trust and understanding with your teammates
     - *Kickoff user interviews, wireframes and user narratives* - Begin to hone your product idea and make mock ups. You are expected
