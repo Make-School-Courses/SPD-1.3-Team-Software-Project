@@ -80,24 +80,6 @@ Students by the end of the course will be able to ...
 - [Product Pitch](https://github.com/Make-School-Courses/SPD-1.3-Team-Software-Project/blob/master/Assignments/03-pitch-deck.md)
   - [Rubric](https://github.com/Make-School-Courses/SPD-1.3-Team-Software-Project/blob/master/Assignments/03-pitch-deck.md)
 
-## Class Assignments
-### Coding Projects
-**All coding projects will require a minimum of 10 commits, and must take place throughout the entirety of the course**
-
-- **Good Example:** 40+ commits throughout the length of the course, looking for a healthy spattering of commits each week (such as 3-5 per day).
-- **Bad Example:** 10 commits on one day during the course and no others. Students who do this will be at severe risk of not passing the class.
-- **Unacceptable Example:** 2 commits the day before a project is due. Students who do this should not expect to pass the class. 
-
-#### Why are we doing this?
-
-We want to encourage best practices that you will see working as a professional software engineer. Breaking up a project by doing a large amount of commits helps engineers in the following ways:
-
-- It's much easier to retrace your steps if you break your project/product/code up into smaller pieces
-- It helps with being able to comprehend the larger problem, and also will help with your debugging (i.e. finding exactly when you pushed that piece of broken code)
-- It allows for more streamlined, iterative communication in your team, as it's much easier to hand off a small change to someone (updating a function) than a huge one (changed the architecture of the project)
-
-Through this requirement, we hope to encourage you to think about projects with an iterative, modular mindset. Doing so will allow you to break projects down into smaller milestones that come together to make your fully-realized solution.
-
 ## Resources
 
 - **User Interviews** - user interviews help you understand and validate user needs. Here are user interview [best practices](https://docs.google.com/presentation/d/1xtUGbErF315eKkvVAstTnWzoXLmpygtf6YGTEMYwg_A/edit#slide=id.p) and a [template script](https://docs.google.com/document/d/1uRRKejC3Ullk5vdw9P1SHmE56CGkekH2dIaoBV9ISeM/edit)
@@ -124,6 +106,23 @@ Attendance requirements for scheduled sessions are:
 
 Failure to meet these requirements will result in a PIP (Participation Improvement Plan).  Failure to improve after the PIP is cause for not being allowed to continue at Make School.
 
+## Class Assignments
+### Coding Projects
+**All coding projects will require a minimum of 10 commits, and must take place throughout the entirety of the course**
+
+- **Good Example:** 40+ commits throughout the length of the course, looking for a healthy spattering of commits each week (such as 3-5 per day).
+- **Bad Example:** 10 commits on one day during the course and no others. Students who do this will be at severe risk of not passing the class.
+- **Unacceptable Example:** 2 commits the day before a project is due. Students who do this should not expect to pass the class. 
+
+#### Why are we doing this?
+
+We want to encourage best practices that you will see working as a professional software engineer. Breaking up a project by doing a large amount of commits helps engineers in the following ways:
+
+- It's much easier to retrace your steps if you break your project/product/code up into smaller pieces
+- It helps with being able to comprehend the larger problem, and also will help with your debugging (i.e. finding exactly when you pushed that piece of broken code)
+- It allows for more streamlined, iterative communication in your team, as it's much easier to hand off a small change to someone (updating a function) than a huge one (changed the architecture of the project)
+
+Through this requirement, we hope to encourage you to think about projects with an iterative, modular mindset. Doing so will allow you to break projects down into smaller milestones that come together to make your fully-realized solution.
 
 ## Make School Course Policies
 
