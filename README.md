@@ -72,6 +72,13 @@ Students by the end of the course will be able to ...
 [Lesson 11]: Lessons/Lesson11.md
 [Lesson 12]: Lessons/Lesson12.md
 
+## Projects
+- [Idea Mock Ups: User Interviews, User Narratives, Wireframes, ERDs](https://github.com/Make-School-Courses/SPD-1.3-Team-Software-Project/blob/master/Assignments/01-interviews-journeys-wireframes.md)
+  - [Rubric](https://github.com/Make-School-Courses/SPD-1.3-Team-Software-Project/blob/master/Assignments/01-interviews-journeys-wireframes.md)
+- [Team Software Product: Versions 0, 1, 2, 3 ... yes this is 4 deliverables!](https://github.com/Make-School-Courses/SPD-1.3-Team-Software-Project/blob/master/Assignments/02-product-v-1-2-3.md)
+  - [Rubric](https://github.com/Make-School-Courses/SPD-1.3-Team-Software-Project/blob/master/Assignments/02-product-v-1-2-3.md)
+- [Product Pitch](https://github.com/Make-School-Courses/SPD-1.3-Team-Software-Project/blob/master/Assignments/03-pitch-deck.md)
+  - [Rubric](https://github.com/Make-School-Courses/SPD-1.3-Team-Software-Project/blob/master/Assignments/03-pitch-deck.md)
 
 ## Class Assignments
 ### Coding Projects
