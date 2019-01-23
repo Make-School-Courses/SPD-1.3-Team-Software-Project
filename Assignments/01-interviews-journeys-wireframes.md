@@ -3,9 +3,9 @@
 Hone your product focus, scope and design by creating these product mock-up deliverables.
 
 ## Deadlines
-1. All items are started on Class 1
-1. Draft of items are due Class 2
-1. Final drafts are **due Class 4**
+1. All items are started on Class 1, Wed 1/23
+1. Draft of items are due Class 2, Mon 1/28
+1. Final drafts are **due Class 4, Mon 2/4**
   1. Feedback will be given by a TA/Instructor on all deliverables before class 6
 
 ## Objectives
