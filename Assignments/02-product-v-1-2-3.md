@@ -49,6 +49,7 @@ Tips:
         - Owns documentation
         - Contribute code to the project
 1. **Tip 7: Clarify "Ownership":** In addition to the “area” role ownership above, teammates should own individual “tasks” - action items (often captured in trello) that have a defined deliverable and timeline. “Tasks” are assigned and reviewed during Sprint Planning meetings. You may do tasks outside of your “Area” of ownership.
+1. **Tip 8: Be lean and iterative in your design:** wireframe and user test frequently. It doesn't take much time to do and can help you quickly test assumptions around product UI and ensure you are meeting user expecations and needs.
 
 
 ## Resources:
