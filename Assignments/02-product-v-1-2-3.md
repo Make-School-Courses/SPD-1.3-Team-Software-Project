@@ -4,7 +4,7 @@ Four versions of your team's amazing app or site are due on the dates listed bel
 
 ## Deliverable Due Dates
 
-- Version 0 due 2/6/19 - MVP shipped “skateboard” that CRUDs one resource
+- Version 0 due 2/6/19 - MVP shipped “skateboard” that CRUDs one resource or has one feature
     - Feedback given by Instructor/or/TA by Feb 13th
 - Version 1 due Wed 2/13/19,  that scores at least a 1 on the [portfolio project rubric](http://make.sc/portfolio-project-rubric) excluding "write up" row.
     - Feedback given by Instructor/or/TA by Feb 20th
