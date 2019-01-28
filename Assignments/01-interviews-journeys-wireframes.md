@@ -1,4 +1,4 @@
-# SPD 1.3 Blog Post: Team Software Development
+# SPD 1.3 Mock-Ups: User Interviews, User Journeys, Wireframes, ERDs
 
 Hone your product focus, scope and design by creating these product mock-up deliverables.
 
