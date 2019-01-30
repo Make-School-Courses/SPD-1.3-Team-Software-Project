@@ -31,7 +31,7 @@ Must recieve higher than '70%' to pass this project.
 | Criteria | Points | Score |
 | -------- | ------ | ----- |
 | Conducted 4-5 User Interviews | 30 | |
-| Includes question scripts that are unbiased, open-ended, about pain-points, has demographics | 25 | |
+| Includes question scripts that are unbiased, open-ended, about pain-points, asks about demographics | 25 | |
 | Took notes on interviewee responses | 25 | |
 | 1 paragraph or list of insights, pivots gleaned from interviews if any | 10 | |
 | On-time submission | 10 | |
