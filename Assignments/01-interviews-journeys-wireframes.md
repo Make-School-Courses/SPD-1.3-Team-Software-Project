@@ -15,8 +15,7 @@ Hone your product focus, scope and design by creating these product mock-up deli
 3. Organize your team to *meet a fast approaching deadline*
 
 ## Submission Requirements
-* Put all the documents of this assignment into a Google Document. You can place them all into ONE document, and then make a Header for each individual section. To link to that specific section (instead of the overall document) click the header and copy the link. Your pasted link will link specifically to that header section in the document.
-* Make the document "viewable to anyone with the link" by clicking into the sharing settings
+* Put all the documents of this assignment into a Github Repo for the project. You can place them all into ONE repo, and then make a Header for each individual section.
 * Put links to each document into the SPD 1.3 Tracker
 
 ## Resources
