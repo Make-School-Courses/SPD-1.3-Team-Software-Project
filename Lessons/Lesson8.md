@@ -19,7 +19,13 @@ Story points are typically chosen using the Fibonacci sequence, as it’s easier
 
 Typically we use the following for point numbers. Where 0.5 (yes it's not Fibonacci, just go with it!) is a dead simple task, and 13 is a really hard task that will most likely take longer than a sprint to do. Anything 13 or higher should be broken up into smaller, more digestable tickets.
 
-0.5    1    3    5    8    13
+Numbers typically used:
+- 0.5
+- 1
+- 3
+- 5
+- 8
+- 13
 
 ## In Class Activities
 
