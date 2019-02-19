@@ -1,4 +1,4 @@
-# Conflict Resolution & Feedback ([Class Slides](https://docs.google.com/presentation/d/1jDmDOus1HOBoKHEIqlkAzCBclV9KVbZD4a4ZrNOiNlc/edit#slide=id.g4fae02da52_0_33)
+# Conflict Resolution & Feedback ([Class Slides](https://docs.google.com/presentation/d/1jDmDOus1HOBoKHEIqlkAzCBclV9KVbZD4a4ZrNOiNlc/edit#slide=id.g4fae02da52_0_33))
 
 ## Objectives
  - Accurately estimate points and velocity on your engineering team to maximize team work utilization
