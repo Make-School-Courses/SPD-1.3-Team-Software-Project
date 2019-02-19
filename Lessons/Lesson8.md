@@ -1,4 +1,9 @@
-# Peer Feedback and Code
+# Conflict Resolution & Feedback ([Class Slides](https://docs.google.com/presentation/d/1jDmDOus1HOBoKHEIqlkAzCBclV9KVbZD4a4ZrNOiNlc/edit#slide=id.g4fae02da52_0_33)
+
+## Objectives
+ - Accurately estimate points and velocity on your engineering team to maximize team work utilization
+ - Navigate challenging feedback scenarios in a way that delivers constructive feedback and affirms your teammate
+ - Resolve conflicts with teammates
 
 ## Revisiting Point Estimations
 
@@ -29,10 +34,11 @@ Numbers typically used:
 
 ## In Class Activities
 
-- *Advanced Unix Utilities Tutorial* 
+- *Feedback challenge* - discuss your comfort level on giving and recieving feedback and create a "playbook" for specific feedback challenges
+- *Lara Framework challenge* - brainstorm challenging conversations scenarios you face on your team and use the LARA framework to craft a message that affirms their perspective and constructively shares your perspective
 
 ## After Class
 
-  1. finish tutorial
   1. continue conducting sprint
+  1. finish v2 of your product by Wednesday (tomorrow) view the [assignemnt](https://github.com/Make-School-Courses/SPD-1.3-Team-Software-Project/blob/master/Assignments/02-product-v-1-2-3.md) for more details
 
