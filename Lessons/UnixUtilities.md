@@ -21,9 +21,19 @@
 
 ## In Class Activity I (60 Minutes)
 
-1. Ask students to clone this [command line mystery](https://github.com/SF-WDI-LABS/command-line-mystery) repository.
-      1. Source: [General Assembly Labs](https://github.com/SF-WDI-LABS)
-2. Present [TLDR Pages](https://tldr.sh) as a helpful hint and alternative to `man` pages.
+### Instructions
+
+1. Clone this [command line mystery](https://github.com/SF-WDI-LABS/command-line-mystery) repository to get started.
+    * Source: [General Assembly Labs](https://github.com/SF-WDI-LABS)
+1. Commit and push your solution as you go!
+    
+### Tips and Tools
+
+* [TLDR Pages](https://tldr.sh) - a direct, helpful alternative to `man` pages.
+
+### How to Get Unstuck
+
+1. Check out `hint1`, `hint2`, etc in the root of the repository.
 
 ## Additional Practice
 
