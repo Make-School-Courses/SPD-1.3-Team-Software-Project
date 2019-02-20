@@ -18,7 +18,7 @@
 
 ## Initial Overview / TT (25 Minutes)
 
-1. Present these [introduction slides](https://make.sc/unix-slides) and provide an overview of Unix utilities to the class.
+* Present these [introduction slides](https://make.sc/unix-slides) and provide an overview of Unix utilities to the class.
    * Cover Unix philosophy and Shells section.
    * Discuss redirecting streams and slice streams.
 
@@ -28,15 +28,20 @@
 
 1. Clone this [command line mystery](https://github.com/SF-WDI-LABS/command-line-mystery) repository to get started.
     * Source: [General Assembly Labs](https://github.com/SF-WDI-LABS)
-1. Commit and push your solution as you go!
-    
+2. Commit and push your solution as you go!
+
 ### Tips and Tools
 
-* [TLDR Pages](https://tldr.sh) - a direct, helpful alternative to `man` pages.
+* **[TLDR Pages](https://tldr.sh)**: a direct, helpful alternative to `man` pages.
 
 ### How to Get Unstuck
 
-1. Check out `hint1`, `hint2`, etc in the root of the repository.
+* Run `cat hint1`, `cat hint2`, etc in the root of the repository.
+* Use Google and the [slide deck](https://make.sc/unix-slides) for help.
+
+## After Class
+
+* Run `cat solution` in the root of your repository to verify if you completed the challenges correctly.
 
 ## Additional Practice
 
