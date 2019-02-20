@@ -1,4 +1,4 @@
-# Investor/Product Pitch Deck
+# Investor/Product Pitch Deck ([template slides](https://docs.google.com/presentation/d/1BYsmchzoaEG3WQXHHqlVgRPYsXuRqg3s-c-e1QbPKdk/edit#slide=id.g4d9b23a699_0_47))
 
 This will be assigned in class on Wednesday February 13th
 
