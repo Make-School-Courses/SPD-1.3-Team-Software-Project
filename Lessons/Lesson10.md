@@ -1,4 +1,4 @@
-# Unix Utilities Part 2 ([Slides](make.sc/unix-slides)) ([deliverables slide from class](https://docs.google.com/presentation/d/1ExSo0d4lEOtSxa0WtipP9EBJITn6XjAul8jgywXs-8g/edit#slide=id.g4ff2310a31_0_65)) 
+# Unix Utilities Part 2 ([Slides](make.sc/unix-slides)) ([deliverables slide from class](https://docs.google.com/presentation/d/1ExSo0d4lEOtSxa0WtipP9EBJITn6XjAul8jgywXs-8g/edit#slide=id.g4ff2310a31_0_65))
 
 ## Minute-by-Minute
 
