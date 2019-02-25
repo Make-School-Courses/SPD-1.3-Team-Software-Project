@@ -1,5 +1,4 @@
-# Advanced Unix Utilities ([Slides](make.sc/unix-slides)) and 
-# Unix Utilities Part 1
+# Unix Utilities Part 2 ([Slides](make.sc/unix-slides))
 
 ## Minute-by-Minute
 
