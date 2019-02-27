@@ -8,9 +8,9 @@ Four versions of your team's amazing app or site are due on the dates listed bel
     - Feedback given by Instructor/or/TA by Feb 13th
 - Version 1 due Wed 2/13/19,  that scores at least a 1 on the [portfolio project rubric](http://make.sc/portfolio-project-rubric) excluding "write up" row.
     - Feedback given by Instructor/or/TA by Feb 20th
-- Version 2 due 2/20/19, that is live and scores a 2 on the [portfolio project rubric](http://make.sc/portfolio-project-rubric) excluding "write up" row.
+- Version 2 due 2/20/19, that **is live and scores a 2** on the [portfolio project rubric](http://make.sc/portfolio-project-rubric) excluding "write up" row.
     - Feedback given by Instructor/or/TA by Feb 27th
-- Version 3 due 3/6/19, that is live and scores a 2.5-3 on the [portfolio project rubric](http://make.sc/portfolio-project-rubric) excluding "write up" row.
+- Version 3 due 3/6/19, that **is live and scores a 2.5-3** on the [portfolio project rubric](http://make.sc/portfolio-project-rubric) excluding "write up" row.
 
 ## Work Planning
 Use the following professional engineering team tips to maximize your progress in the course.
