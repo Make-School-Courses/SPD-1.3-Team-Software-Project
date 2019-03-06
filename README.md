@@ -71,7 +71,7 @@ Students by the end of the course will be able to ...
 [Lesson 10]: Lessons/Lesson10.md
 [Lesson 11]: Lessons/Lesson11.md
 [Lesson 12]: Lessons/Lesson12.md
-[Final Presentations]: Lesson/Lesson13.md
+[Final Presentations]: Lessons/Lesson13.md
 
 ## Projects
 - [Idea Mock Ups: User Interviews, User Narratives, Wireframes, ERDs](https://github.com/Make-School-Courses/SPD-1.3-Team-Software-Project/blob/master/Assignments/01-interviews-journeys-wireframes.md)
