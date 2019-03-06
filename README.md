@@ -56,7 +56,7 @@ Students by the end of the course will be able to ...
 |  10 | Monday, February 25             | [Lesson 10] |
 |  11 |  Wednesday, February 27            | [Lesson 11] |
 |  12 | Monday, March 4             | Assessment |
-|  13 |  Wednesday, March 6            | Final Presentations |
+|  13 |  Wednesday, March 6            | [Final Presentations] |
 
 
 [Lesson 1]: Lessons/Lesson1.md
@@ -71,6 +71,7 @@ Students by the end of the course will be able to ...
 [Lesson 10]: Lessons/Lesson10.md
 [Lesson 11]: Lessons/Lesson11.md
 [Lesson 12]: Lessons/Lesson12.md
+[Final Presentations]: Lesson/Lesson13.md
 
 ## Projects
 - [Idea Mock Ups: User Interviews, User Narratives, Wireframes, ERDs](https://github.com/Make-School-Courses/SPD-1.3-Team-Software-Project/blob/master/Assignments/01-interviews-journeys-wireframes.md)
