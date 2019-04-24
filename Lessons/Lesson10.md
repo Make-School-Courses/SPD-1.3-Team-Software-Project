@@ -1,6 +1,50 @@
-# Myers-Briggs Personality Assessment
-  - **In Class Activities** - 
-    - *Self Assessment* - Take the Myers-Briggs Personality Assessment to measure your tendancies
-    - *Myers Brings Activities* - go through a variety of communication and introspection activities to gain self awareness on your collaboration style and the preferences of others. The [Myers-Briggs](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator) assessment has been used by XXX individuals and is commonly used in corporate settings.
-    - *Personality on your project* - engage in reflection and discussion on how your personality traites have played out on your team.
-  - **After Class** - 1) continue working on your blog posts  2) execute your sprint over the coming week
+# Unix Utilities Part 2 ([Slides](https://www.dropbox.com/s/ob2lyxn6qjjix2p/Unix%20Utilities.pdf?dl=0)) ([deliverables slide from class](https://docs.google.com/presentation/d/1ExSo0d4lEOtSxa0WtipP9EBJITn6XjAul8jgywXs-8g/edit#slide=id.g4ff2310a31_0_65))
+
+## Minute-by-Minute
+
+| **Elapsed** | **Time**  | **Activity**              |
+| ----------- | --------- | ------------------------- |
+| 0:00        | 0:05      | Objectives                |
+| 0:05        | 0:25      | Overview                  |
+| 0:30        | 0:60      | In Class Activity         |
+| TOTAL       | 1:30      |                           |
+
+## Learning Objectives (5 Minutes)
+
+1. Appreciate the philosophy behind the command line applications developers use daily.
+1. Define what a shell is, and how your shell can play a crucial role in day-to-day development.
+1. Gain familiarity with common, helpful command line tools and Unix utilities.
+1. Employ and apply commands demonstrated in class to complete challenges in a fun terminal game.
+
+## Initial Overview / TT (25 Minutes)
+
+* Present these [introduction slides](https://make.sc/unix-slides) and provide an overview of Unix utilities to the class.
+   * Cover Unix philosophy and Shells section.
+   * Discuss redirecting streams and slice streams.
+
+## In Class Activity (60 Minutes)
+
+### Instructions
+
+1. Clone this [command line mystery](https://github.com/SF-WDI-LABS/command-line-mystery) repository to get started.
+    * Source: [General Assembly Labs](https://github.com/SF-WDI-LABS)
+2. Commit and push your solution as you go!
+
+### Tips and Tools
+
+* **[TLDR Pages](https://tldr.sh)**: a direct, helpful alternative to `man` pages.
+
+### How to Get Unstuck
+
+* Run `cat hint1`, `cat hint2`, etc in the root of the repository.
+* Use Google and the [slide deck](https://make.sc/unix-slides) for help.
+
+## After Class
+
+* Run `cat solution` in the root of your repository to verify if you completed the challenges correctly.
+* Finish your draft presentation for Wednesday (we will present in class)
+* Continue your current sprint
+
+## Additional Practice
+
+* [Unix Utilities Walkthrough](https://github.com/Make-School-Labs/Core-Unix-Utilities) - An additional activity to enhance your command line skills.

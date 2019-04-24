@@ -56,8 +56,8 @@ Students by the end of the course will be able to ...
 |  9 |  Wednesday, February 20            | [Lesson 9] |
 |  10 | Monday, February 25             | [Lesson 10] |
 |  11 |  Wednesday, February 27            | [Lesson 11] |
-|  12 | Monday, March 4             | Final Class (presentations, etc) |
-|  13 |  Wednesday, March 6            | Final Exams/Presentations |
+|  12 | Monday, March 4             | Assessment |
+|  13 |  Wednesday, March 6            | [Final Presentations] |
 
 
 [Lesson 1]: Lessons/Lesson1.md
@@ -72,16 +72,41 @@ Students by the end of the course will be able to ...
 [Lesson 10]: Lessons/Lesson10.md
 [Lesson 11]: Lessons/Lesson11.md
 [Lesson 12]: Lessons/Lesson12.md
+[Final Presentations]: Lessons/Lesson13.md
 
-TO DO
-- Finalize due dates: assignments, peer reviews, midterm grades
-- Topics of discussion: Psych Safety, Dialogue Debate Discussion, Boat activity, Difficult Conversations, Delegation Exemplar, data analytics
-- Seniors - persuasion forwarding ideas, data anlalytics
-- delegate instructors
-- update dates of delivery
-- Pitch rubric
-- PM rubric
+## Projects
+- [Idea Mock Ups: User Interviews, User Narratives, Wireframes, ERDs](https://github.com/Make-School-Courses/SPD-1.3-Team-Software-Project/blob/master/Assignments/01-interviews-journeys-wireframes.md)
+  - [Rubric](https://github.com/Make-School-Courses/SPD-1.3-Team-Software-Project/blob/master/Assignments/01-interviews-journeys-wireframes.md)
+- [Team Software Product: Versions 0, 1, 2, 3 ... yes this is 4 deliverables!](https://github.com/Make-School-Courses/SPD-1.3-Team-Software-Project/blob/master/Assignments/02-product-v-1-2-3.md)
+  - [Rubric](https://github.com/Make-School-Courses/SPD-1.3-Team-Software-Project/blob/master/Assignments/02-product-v-1-2-3.md)
+- [Product Pitch](https://github.com/Make-School-Courses/SPD-1.3-Team-Software-Project/blob/master/Assignments/03-pitch-deck.md)
+  - [Rubric](https://github.com/Make-School-Courses/SPD-1.3-Team-Software-Project/blob/master/Assignments/03-pitch-deck.md)
 
+## Resources
+
+- **User Interviews** - user interviews help you understand and validate user needs. Here are user interview [best practices](https://docs.google.com/presentation/d/1xtUGbErF315eKkvVAstTnWzoXLmpygtf6YGTEMYwg_A/edit#slide=id.p) and a [template script](https://docs.google.com/document/d/1uRRKejC3Ullk5vdw9P1SHmE56CGkekH2dIaoBV9ISeM/edit)
+- **Best Practices for User Narratives, Wireframe, Entity Relationship Diagram** - see [best practice articles, videos, and slides](https://docs.google.com/document/d/1uCxdv8N0TltGNS1YLOS8SkD0uLcir0Wg2I9pxS_PL_w/edit#) See [class slides](https://docs.google.com/presentation/d/1ALBDn3bIycimyvnB6fEOAMadDOCA4wmoOO9Z-lpBRsM/edit#slide=id.g3e71f5355a_0_26) here.
+- **Sprint Planning Meetings (1 hour, weekly)** - *[Meeting Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.xffidahcubfs)*. Led by the PM. Team checks their roadmap and evaluate teams’ needs to decide what goes into the next sprint, and assign tasks. Teams can use [planning poker](https://en.wikipedia.org/wiki/Planning_poker) to estimate task effort. Everything is logged into Trello. You can copy this [Sprint Planning Trello Board template](https://trello.com/b/AU9r774H/kanban-board-template).
+- **Sprint Retrospective (½ hour, weekly)** - *[Meeting Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.10t6cnudbcpw)*. Complete the old sprint board by checking all tickets and moving incomplete ones over to the next sprint board. Then estimate the tickets that the PM have moved into the board ahead of meeting. Go over what was completed, what went well not if it didn’t go so well, but double check how everyone felt. Anyone feel overloaded on work? Anything the PM could have done differently? [Sprint Retrospective Trello Board Template](https://trello.com/b/qRzOdBvj/eng-retro-board-template).
+- **Teamwork Rubric** - [rubric](https://docs.google.com/document/d/1d-K-DCbIvCOfmqIeoTAjoTg3LmiqXZc-RsTnIi3WAUg/edit) for individual performance on team and full team performance
+
+## Evaluation ([Study Guide](https://docs.google.com/document/d/15-emnQDODOrDaqpnBSGiEBs6_iUBdosTBHT0sy9zxVI/edit))
+To pass this course you must meet the following requirements:
+
+- Complete all required tutorials
+- Pass all projects according to the associated project rubric (see [this folder](https://github.com/Make-School-Courses/SPD-1.3-Team-Software-Project/tree/master/Assignments) for project requirements and evaluation)
+- Pass the final summative assessment >=75%
+- Actively participate in class and abide by the attendance policy
+- Make up all classwork from all absences
+
+## Attendance
+Just like any job, attendance at Make School is required and a key component of your success. Attendance is being onsite from 9:30 to 5:30 each day, attending all scheduled sessions including classes, huddles, coaching and school meetings, and working in the study labs when not in a scheduled session. Working onsite allows you to learn with your peers, have access to support from TAs, instructors and others, and is vital to your learning.
+
+Attendance requirements for scheduled sessions are:
+- No more than two no call no shows per term in any scheduled session.
+- No more than four excused absences per term in any scheduled session.
+
+Failure to meet these requirements will result in a PIP (Participation Improvement Plan).  Failure to improve after the PIP is cause for not being allowed to continue at Make School.
 
 ## Class Assignments
 ### Coding Projects
@@ -100,46 +125,6 @@ We want to encourage best practices that you will see working as a professional 
 - It allows for more streamlined, iterative communication in your team, as it's much easier to hand off a small change to someone (updating a function) than a huge one (changed the architecture of the project)
 
 Through this requirement, we hope to encourage you to think about projects with an iterative, modular mindset. Doing so will allow you to break projects down into smaller milestones that come together to make your fully-realized solution.
-
-### [SPD 1.3 Blog Post: Team Software Development] - DUE DATE:
-
-### [Term 3: Product] - DUE DATE:
-
-### [Investor/Product Pitch Deck]- DUE DATE:
-
-### [Intensive: Shipped Product] - DUE DATE:
-
-[SPD 1.3 Blog Post: Team Software Development]: Assignments/blog-post.md
-[Term 3: Product]: Assignments/product.md
-[Investor/Product Pitch Deck]: Assignments/pitch-deck.md
-[Intensive: Shipped Product]: Assignments/shipped-product.md
-
-## Resources
-
-- **User Interviews** - user interviews help you understand and validate user needs. Here are user interview [best practices](https://docs.google.com/presentation/d/1xtUGbErF315eKkvVAstTnWzoXLmpygtf6YGTEMYwg_A/edit#slide=id.p) and a [template script](https://docs.google.com/document/d/1uRRKejC3Ullk5vdw9P1SHmE56CGkekH2dIaoBV9ISeM/edit)
-- **Best Practices for User Narratives, Wireframe, Entity Relationship Diagram** - see [best practice articles, videos, and slides](https://docs.google.com/document/d/1uCxdv8N0TltGNS1YLOS8SkD0uLcir0Wg2I9pxS_PL_w/edit#) See [class slides](https://docs.google.com/presentation/d/1ALBDn3bIycimyvnB6fEOAMadDOCA4wmoOO9Z-lpBRsM/edit#slide=id.g3e71f5355a_0_26) here.
-- **Sprint Planning Meetings (1 hour, weekly)** - *[Meeting Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.xffidahcubfs)*. Led by the PM. Team checks their roadmap and evaluate teams’ needs to decide what goes into the next sprint, and assign tasks. Teams can use [planning poker](https://en.wikipedia.org/wiki/Planning_poker) to estimate task effort. Everything is logged into Trello. You can copy this [Sprint Planning Trello Board template](https://trello.com/b/ftyBKJb3/eng-sprint-board-template).
-- **Sprint Retrospective (½ hour, weekly)** - *[Meeting Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.10t6cnudbcpw)*. Complete the old sprint board by checking all tickets and moving incomplete ones over to the next sprint board. Then estimate the tickets that the PM have moved into the board ahead of meeting. Go over what was completed, what went well not if it didn’t go so well, but double check how everyone felt. Anyone feel overloaded on work? Anything the PM could have done differently? [Sprint Retrospective Trello Board Template](https://trello.com/b/8tEv8Uaj/eng-retro-board-template).
-
-## Evaluation
-[MAKE SPECIFIC TO YOUR COURSE SO IT IS SUPER CLEAR]
-To pass this course you must meet the following requirements:
-
-- Complete all required tutorials
-- Pass all projects according to the associated project rubric
-- Pass the final summative assessment >=75%
-- Actively participate in class and abide by the attendance policy
-- Make up all classwork from all absences
-
-## Attendance
-Just like any job, attendance at Make School is required and a key component of your success. Attendance is being onsite from 9:30 to 5:30 each day, attending all scheduled sessions including classes, huddles, coaching and school meetings, and working in the study labs when not in a scheduled session. Working onsite allows you to learn with your peers, have access to support from TAs, instructors and others, and is vital to your learning.
-
-Attendance requirements for scheduled sessions are:
-- No more than two no call no shows per term in any scheduled session.
-- No more than four excused absences per term in any scheduled session.
-
-Failure to meet these requirements will result in a PIP (Participation Improvement Plan).  Failure to improve after the PIP is cause for not being allowed to continue at Make School.
-
 
 ## Make School Course Policies
 
