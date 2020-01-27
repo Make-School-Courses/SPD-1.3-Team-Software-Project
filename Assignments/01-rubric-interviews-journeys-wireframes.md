@@ -1,4 +1,4 @@
-Must recieve higher than '70%' to pass this project.
+High quality ideation documents ...
 
 ## User Interview Requirements (25%)
 
