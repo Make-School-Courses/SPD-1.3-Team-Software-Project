@@ -56,7 +56,7 @@ Students by the end of the course will be able to ...
 - **Sprint Retrospective (½ hour, weekly)** - *[Meeting Agenda Template](https://docs.google.com/document/d/1n6IDYJ9jW2lWaTu5uf7qXEd3ihgQIByxsr-4RHjldBI/edit#heading=h.10t6cnudbcpw)*. Complete the old sprint board by checking all tickets and moving incomplete ones over to the next sprint board. Then estimate the tickets that the PM have moved into the board ahead of meeting. Go over what was completed, what went well not if it didn’t go so well, but double check how everyone felt. Anyone feel overloaded on work? Anything the PM could have done differently? [Sprint Retrospective Trello Board Template](https://trello.com/b/qRzOdBvj/eng-retro-board-template).
 - **Teamwork Rubric** - [rubric](https://docs.google.com/document/d/1d-K-DCbIvCOfmqIeoTAjoTg3LmiqXZc-RsTnIi3WAUg/edit) for individual performance on team and full team performance
 
-## Evaluation ([Study Guide](https://docs.google.com/document/d/15-emnQDODOrDaqpnBSGiEBs6_iUBdosTBHT0sy9zxVI/edit))
+## Evaluation
 To pass this course you must meet the following requirements:
 
 - Complete all required tutorials
