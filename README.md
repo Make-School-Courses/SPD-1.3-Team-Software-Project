@@ -56,7 +56,7 @@ Students by the end of the course will be able to ...
 |  9 |  Mon, Feb 22               | [Investor Pitchdecks] + Retrospective Sprint 1|
 |  - |  Wed, Feb 24               | Warroom + Retrospective Sprint 4 | Lab |
 | 10 |  Mon, Mar 1                | Warrom + Update LinkedIn & MKS Portfolio |
-| 11 |  Wed, Mar 3                | Final Survey & Presentations |Lab |
+| 11 |  Wed, Mar 3                | Final Survey & Presentations | |
 
 <!-- omit in toc -->
 ### **Section B: Braus - Hybrid**
@@ -79,7 +79,7 @@ Students by the end of the course will be able to ...
 |  9 |  Mon, Feb 22               | [Investor Pitchdecks] + Retrospective Sprint 1|
 |  - |  Wed, Feb 24               | Warroom + Retrospective Sprint 4 | Lab |
 | 10 |  Mon, Mar 1                | Warrom + Update LinkedIn & MKS Portfolio |
-| 11 |  Wed, Mar 3                | Final Survey & Presentations |Lab |
+| 11 |  Wed, Mar 3                | Final Survey & Presentations | |
 
 <!-- tabs:end -->
 
