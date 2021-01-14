@@ -84,13 +84,15 @@ Students by the end of the course will be able to ...
 <!-- tabs:end -->
 
 [Intro to Teamwork]:Lessons/Lesson01.md
-[Bootstrap - Mobile First Design/Grids/Static Components]: Lessons/Lesson02.md
+[LARA & Sprint Retrospectives]: Lessons/Lesson02.md
 [Sprint Planning & Kan Ban]: Lessons/Lesson03.md
 [Git Collaboration]:  Lessons/Lesson04.md
-[Industry Contacts]: Lessons/Lesson05.md
-[5 Dysfunctions of a Team]: Lessons/Lesson06.md
-[Teamwork and Personality]: Lessons/Lesson07.md
-[Responding to Microagressions]: Lessons/Lesson08.md
+[Teamwork Performance]: Lessons/Lesson05.md
+[Industry Contacts]: Lessons/Lesson06.md
+[5 Dysfunctions of a Team]: Lessons/Lesson07.md
+[Teamwork and Personality]: Lessons/Lesson08.md
+[Responding to Microagressions]: Lessons/Lesson09.md
+[Investor Pitchdecks]: Lessons/Lesson10.md
 
 ## Assignment Schedule
 
