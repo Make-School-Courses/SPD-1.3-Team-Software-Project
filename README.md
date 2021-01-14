@@ -2,22 +2,22 @@
 
 ## Course Description
 
+This course focuses on the foundational skills of successful engineering teams. Students work in teams of four to conduct weekly sprints and retrospectives. Topics include: SCRUM planning, meeting management, delegation, conflict resolution, role ownership, advanced Git & GitHub, Unix Utilities, performance reviews, basics of organizational psychology and team development. Students utilize all the skills they've developed in SPD thus far to ship a sophisticated multi-feature software product that solves a real world problem.
+
+## Why you should learn this
+
 Think Big. After winter break, core curriculum focuses on a big group project with teams of 4-5 engineers. You'll specialize in a particular role (mobile, front end, back end, devices, etc) and execute an ambitious project to impact the world. Previous projects include:
   - A website, designed in partnership with the White House, to educate and connect underserved communities to the Internet.
   - An online marketplace to find and purchase IOT home appliances.
   - A "smart curriculum" that creates tests off of student work.
 
-Your team will dive deep into the nuance of an industry, talk with experts in the field, and create something meaningful. We'll cover organizational psychology research on what makes teams thrive. You'll get hands on experience navigating team dynamics and troubleshooting common communication challenges. SPD 1.3 culminates with Demo Night presentations of shipped product. It's a stellar opportunity to showcase your work to the larger Make School network and share what you've learned.
+Your team will dive deep into the nuance of an industry, talk with experts in the field, and create something meaningful. We'll cover organizational psychology research on what makes teams thrive. You'll get hands on experience navigating team dynamics and troubleshooting common communication challenges. SPD 1.3 culminates with Demo presentations of shipped product. It's a stellar opportunity to showcase your work to the larger Make School network and share what you've learned.
 
 ## Course Specifics
 
 **Course Delivery**: hybrid | 7 weeks | 14 sessions
 
 **Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours
-
-## Prerequisites:  
-
-[SPD 1.2](http://make.sc/spd1.2)
 
 ## Learning Objectives
 
@@ -38,9 +38,9 @@ Students by the end of the course will be able to ...
 <!-- omit in toc -->
 ### **Section A: Dan**
 
-**Course Dates:** Wednesday, October 21 – Wednesday, December 9, 2020 (8 weeks)
+**Course Dates:** Wed, January 20 – Thursday, March 6, 2019 (7 weeks)
 
-**Class Times:** Monday, Wednesday at 9:30am–12:15pm (13 class sessions)
+**Class Times:** Class Times: Monday and Wednesday sections between 9:30am-12:15pm (13 class sessions)
 
 | Class |          Date          |                 Topics                  |  In-Person Labs   |
 |:-----:|:----------------------:|:---------------------------------------:|:-----------------:|
@@ -121,6 +121,8 @@ All assignments are graded on completion. Individual requirements for each are l
 
   - [Team Project Assignment Document (Phases 0-5)](https://docs.google.com/document/d/1YDo1MzGOKieYouBfuKFHnEN0cn-uIYnLnZX0pUUVdz4/edit)
   - [Pitch Rubric](https://github.com/Make-School-Courses/SPD-1.3-Team-Software-Project/blob/master/Assignments/03-pitch-deck.md)
+  - 4 Team Pitch Agenda notes submission (assignments in Gradescope)
+  - 4 Solo Reflection submission (assignments in Gradescope)
 
 ## Resources
 
@@ -133,9 +135,10 @@ All assignments are graded on completion. Individual requirements for each are l
 ## Evaluation
 To pass this course you must meet the following requirements:
 
-- Complete all required tutorials
-- Pass all projects according to the associated project rubric (see [this folder](https://github.com/Make-School-Courses/SPD-1.3-Team-Software-Project/tree/master/Assignments) for project requirements and evaluation)
-- Pass the final summative assessment >=75%
+- 35% of final grade is your team's final product. The grade is determined by completion of various phases outlined in the[Team Project Assignment Document (Phases 0-5)](https://docs.google.com/document/d/1YDo1MzGOKieYouBfuKFHnEN0cn-uIYnLnZX0pUUVdz4/edit). You earn the percentage of the phase that has been completed.
+- 15% of the final grade is from your team's Product Pitch. Pitches are evaluated using the [Pitch Rubric](https://github.com/Make-School-Courses/SPD-1.3-Team-Software-Project/blob/master/Assignments/03-pitch-deck.md)
+- 25% of the final grade is based on completion of the team Sprint & Retrospective Agenda submissions. They were be graded based on a percentage of the steps documented. These assignments and due dates can be found on Gradescope.
+- 25% of the final grade will be based on personal reflections to be completed at the end of every Sprint. They will be graded for completion based on the rubrics in gradescope. These assignments and due dates can be found on Gradescope.
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
