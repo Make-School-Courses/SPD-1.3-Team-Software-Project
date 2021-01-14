@@ -100,23 +100,18 @@ All assignments are graded on completion. Individual requirements for each are l
 
 |         Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [Product Landing Page]                     |  Oct 21       |  Oct 26      | Gradescope  |
-| [Clone a Webpage w/Bootstrap]              |  Oct 26       |  Oct 28      | Gradescope  |
-| [Capstone Bootstrap site]                  |  Oct 28       |  Nov 9       | Gradescope  |
-| [Digital Mockup]                           |  Nov 9        |  Nov 18      | Gradescope  |
-| [Sprint 1]                                 |  Nov 18       |  Nov 23      | Gradescope  |
-| [Sprint 2]                                 |  Nov 23       |  Nov 30      | Gradescope  |
-| [Sprint 3]                                 |  Nov 30       |  Dec 7       | Gradescope  |
-| [Final Project]                            |  --           |  Dec 9       | Gradescope  |
+| [Sprint Meeting Notes & Reflection 1]      |  Jan 25       |  Feb 3      | Gradescope  |
+| [Sprint Meeting Notes & Reflection 2]      |  Feb 3        |  Feb 10      | Gradescope  |
+| [Sprint Meeting Notes & Reflection 3]      |  Feb 10       |  Feb 17      | Gradescope  |
+| [Sprint Meeting Notes & Reflection 4]      |  Feb 17       |  Feb 24       | Gradescope  |
+| [Final Project]                            |  Jan 20       |  Mar 3       | Gradescope  |
 
-[Product Landing Page]: https://www.makeschool.com/academy/track/standalone/tutorial-template-title-max-56-characters-9k4/starting-the-project
-[Clone a Webpage w/Bootstrap]: https://docs.google.com/document/d/1LgTHpiVjRTsjyvKNNQ4_y_lC1M7KW7iQ2AGRgvhlRYw/edit
-[Capstone Bootstrap Site]: https://docs.google.com/document/d/1F7oEKH1PXR4rHQf_WP_z8ztVoT0seM0Xl0T8_yxYJp0/edit
-[Digital Mockup]: https://docs.google.com/document/u/1/d/1LV1gGf_QhRyX4WnPvEebC1a6SCXD-oF5tbb70QHVzfk/edit?usp=drive_web&ouid=106043311622109841017
-[Sprint 1]: https://docs.google.com/document/d/15m8P9ic7sJqVovTozIRdikWCI7HQ_f5TOc5qpqyiAYs/edit#
-[Sprint 2]: https://docs.google.com/document/d/15m8P9ic7sJqVovTozIRdikWCI7HQ_f5TOc5qpqyiAYs/edit#
-[Sprint 3]: https://docs.google.com/document/d/15m8P9ic7sJqVovTozIRdikWCI7HQ_f5TOc5qpqyiAYs/edit#
-[Final Project]: https://docs.google.com/document/d/15m8P9ic7sJqVovTozIRdikWCI7HQ_f5TOc5qpqyiAYs/edit#
+[Sprint Meeting Notes & Reflection 1]: https://www.gradescope.com/courses/223474/assignments
+[Sprint Meeting Notes & Reflection 2]: https://www.gradescope.com/courses/223474/assignments
+[Sprint Meeting Notes & Reflection 3]: https://www.gradescope.com/courses/223474/assignments
+[Sprint Meeting Notes & Reflection 4]: https://www.gradescope.com/courses/223474/assignments
+[Final Project]: https://docs.google.com/document/d/1YDo1MzGOKieYouBfuKFHnEN0cn-uIYnLnZX0pUUVdz4/edit
+
 ## Projects
 
   - [Team Project Assignment Document (Phases 0-5)](https://docs.google.com/document/d/1YDo1MzGOKieYouBfuKFHnEN0cn-uIYnLnZX0pUUVdz4/edit)
