@@ -2,23 +2,22 @@
 
 ## Course Description
 
-This course focuses on the foundational skills of successful engineering teams. Students work in teams of four to conduct weekly sprints and retrospectives. Topics include: SCRUM planning, meeting management, delegation, conflict resolution, role ownership, advanced Git & GitHub, Unix Utilities, performance reviews, basics of organizational psychology and team development. Students utilize all the skills they've developed in SPD thus far to ship a sophisticated multi-feature software product that solves a real world problem.
-
-## Why you should learn this
-
-
 Think Big. After winter break, core curriculum focuses on a big group project with teams of 4-5 engineers. You'll specialize in a particular role (mobile, front end, back end, devices, etc) and execute an ambitious project to impact the world. Previous projects include:
   - A website, designed in partnership with the White House, to educate and connect underserved communities to the Internet.
   - An online marketplace to find and purchase IOT home appliances.
   - A "smart curriculum" that creates tests off of student work.
 
-Your team will dive deep into the nuance of an industry, talk with experts in the field, and create something meaningful. We'll cover organizational psychology research on what makes teams thrive. You'll get hands on experience navigating team dynamics and troubleshooting common communication challenges. SPD 1.3 culminates with Demo presentations of shipped product. It's a stellar opportunity to showcase your work to the larger Make School network and share what you've learned.
+Your team will dive deep into the nuance of an industry, talk with experts in the field, and create something meaningful. We'll cover organizational psychology research on what makes teams thrive. You'll get hands on experience navigating team dynamics and troubleshooting common communication challenges. SPD 1.3 culminates with Demo Night presentations of shipped product. It's a stellar opportunity to showcase your work to the larger Make School network and share what you've learned.
 
 ## Course Specifics
 
 **Course Delivery**: hybrid | 7 weeks | 14 sessions
 
 **Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours
+
+## Prerequisites:  
+
+[SPD 1.2](http://make.sc/spd1.2)
 
 ## Learning Objectives
 
@@ -32,20 +31,94 @@ Students by the end of the course will be able to ...
 
 
 
+
 ## Schedule
 
-**Course Dates:** Wed, January 20 – Thursday, March 6, 2019 (7 weeks)
+<!-- tabs:start -->
+<!-- omit in toc -->
+### **Section A: Dan**
 
-**Class Times:** Class Times: Monday and Wednesday sections between 9:30am-12:15pm (13 class sessions)
+**Course Dates:** Wednesday, October 21 – Wednesday, December 9, 2020 (8 weeks)
 
-[Lesson Schedule](https://docs.google.com/spreadsheets/d/1KyZrkcRPUtTm_1rrklYrz5lcV2O2flwi2yKYM4w9-ig/edit#gid=716701875)
+**Class Times:** Monday, Wednesday at 9:30am–12:15pm (13 class sessions)
 
+| Class |          Date          |                 Topics                  |  In-Person Labs   |
+|:-----:|:----------------------:|:---------------------------------------:|:-----------------:|
+|  1 |  Wed, Jan 20               | [Intro to Teamwork] | |
+|  2 |  Mon, Jan 25               | [LARA & Sprint Retrospectives] | |
+|  3 |  Wed, Jan 27               | [Sprint Planning & Kan Ban] | Lab |
+|  - |  Mon, Feb 1                | [Git Collaboration] |
+|  4 |  Wed, Feb 3                | [Teamwork Performance] + Retrospective Sprint 1 | Lab |
+|  5 |  Mon, Feb 8                | [Industry Contacts] |
+|  6 |  Wed, Feb 10               | [5 Dysfunctions of a Team] + Retrospective Sprint 2 | Lab |
+|  7 |  Mon, Feb 15               | [Teamwork and Personality] |
+|  8 |  Wed, Feb 17               | [Responding to Microagressions] + Retrospective Sprint 3 | Lab |
+|  9 |  Mon, Feb 22               | [Investor Pitchdecks] + Retrospective Sprint 1|
+|  - |  Wed, Feb 24               | Warroom + Retrospective Sprint 4 | Lab |
+| 10 |  Mon, Mar 1                | Warrom + Update LinkedIn & MKS Portfolio |
+| 11 |  Wed, Mar 3                | Final Survey & Presentations |Lab |
+
+<!-- omit in toc -->
+### **Section B: Braus - Hybrid**
+
+**Course Dates:** Wednesday, October 21 – Wednesday, December 9, 2020 (8 weeks)
+
+**Class Times:** Monday, Wednesday at 9:30am–12:15pm (13 class sessions)
+
+| Class |          Date          |                 Topics                  |  In-Person Labs   |
+|:-----:|:----------------------:|:---------------------------------------:|:-----------------:|
+|  1 |  Wed, Jan 20               | [Intro to Teamwork] | |
+|  2 |  Mon, Jan 25               | [LARA & Sprint Retrospectives] | |
+|  3 |  Wed, Jan 27               | [Sprint Planning & Kan Ban] | Lab |
+|  - |  Mon, Feb 1                | [Git Collaboration] |
+|  4 |  Wed, Feb 3                | [Teamwork Performance] + Retrospective Sprint 1 | Lab |
+|  5 |  Mon, Feb 8                | [Industry Contacts] |
+|  6 |  Wed, Feb 10               | [5 Dysfunctions of a Team] + Retrospective Sprint 2 | Lab |
+|  7 |  Mon, Feb 15               | [Teamwork and Personality] |
+|  8 |  Wed, Feb 17               | [Responding to Microagressions] + Retrospective Sprint 3 | Lab |
+|  9 |  Mon, Feb 22               | [Investor Pitchdecks] + Retrospective Sprint 1|
+|  - |  Wed, Feb 24               | Warroom + Retrospective Sprint 4 | Lab |
+| 10 |  Mon, Mar 1                | Warrom + Update LinkedIn & MKS Portfolio |
+| 11 |  Wed, Mar 3                | Final Survey & Presentations |Lab |
+
+<!-- tabs:end -->
+
+[Intro to Teamwork]:Lessons/Lesson01.md
+[Bootstrap - Mobile First Design/Grids/Static Components]: Lessons/Lesson02.md
+[Sprint Planning & Kan Ban]: Lessons/Lesson03.md
+[Git Collaboration]:  Lessons/Lesson04.md
+[Industry Contacts]: Lessons/Lesson05.md
+[5 Dysfunctions of a Team]: Lessons/Lesson06.md
+[Teamwork and Personality]: Lessons/Lesson07.md
+[Responding to Microagressions]: Lessons/Lesson08.md
+
+## Assignment Schedule
+
+All assignments are graded on completion. Individual requirements for each are listed in the description of the assignment.
+
+|         Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
+|:------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
+| [Product Landing Page]                     |  Oct 21       |  Oct 26      | Gradescope  |
+| [Clone a Webpage w/Bootstrap]              |  Oct 26       |  Oct 28      | Gradescope  |
+| [Capstone Bootstrap site]                  |  Oct 28       |  Nov 9       | Gradescope  |
+| [Digital Mockup]                           |  Nov 9        |  Nov 18      | Gradescope  |
+| [Sprint 1]                                 |  Nov 18       |  Nov 23      | Gradescope  |
+| [Sprint 2]                                 |  Nov 23       |  Nov 30      | Gradescope  |
+| [Sprint 3]                                 |  Nov 30       |  Dec 7       | Gradescope  |
+| [Final Project]                            |  --           |  Dec 9       | Gradescope  |
+
+[Product Landing Page]: https://www.makeschool.com/academy/track/standalone/tutorial-template-title-max-56-characters-9k4/starting-the-project
+[Clone a Webpage w/Bootstrap]: https://docs.google.com/document/d/1LgTHpiVjRTsjyvKNNQ4_y_lC1M7KW7iQ2AGRgvhlRYw/edit
+[Capstone Bootstrap Site]: https://docs.google.com/document/d/1F7oEKH1PXR4rHQf_WP_z8ztVoT0seM0Xl0T8_yxYJp0/edit
+[Digital Mockup]: https://docs.google.com/document/u/1/d/1LV1gGf_QhRyX4WnPvEebC1a6SCXD-oF5tbb70QHVzfk/edit?usp=drive_web&ouid=106043311622109841017
+[Sprint 1]: https://docs.google.com/document/d/15m8P9ic7sJqVovTozIRdikWCI7HQ_f5TOc5qpqyiAYs/edit#
+[Sprint 2]: https://docs.google.com/document/d/15m8P9ic7sJqVovTozIRdikWCI7HQ_f5TOc5qpqyiAYs/edit#
+[Sprint 3]: https://docs.google.com/document/d/15m8P9ic7sJqVovTozIRdikWCI7HQ_f5TOc5qpqyiAYs/edit#
+[Final Project]: https://docs.google.com/document/d/15m8P9ic7sJqVovTozIRdikWCI7HQ_f5TOc5qpqyiAYs/edit#
 ## Projects
 
   - [Team Project Assignment Document (Phases 0-5)](https://docs.google.com/document/d/1YDo1MzGOKieYouBfuKFHnEN0cn-uIYnLnZX0pUUVdz4/edit)
   - [Pitch Rubric](https://github.com/Make-School-Courses/SPD-1.3-Team-Software-Project/blob/master/Assignments/03-pitch-deck.md)
-  - 4 Team Pitch Agenda notes submission (assignments in Gradescope)
-  - 4 Solo Reflection submission (assignments in Gradescope)
 
 ## Resources
 
@@ -58,10 +131,9 @@ Students by the end of the course will be able to ...
 ## Evaluation
 To pass this course you must meet the following requirements:
 
-- 35% of final grade is your team's final product. The grade is determined by completion of various phases outlined in the[Team Project Assignment Document (Phases 0-5)](https://docs.google.com/document/d/1YDo1MzGOKieYouBfuKFHnEN0cn-uIYnLnZX0pUUVdz4/edit). You earn the percentage of the phase that has been completed.
-- 15% of the final grade is from your team's Product Pitch. Pitches are evaluated using the [Pitch Rubric](https://github.com/Make-School-Courses/SPD-1.3-Team-Software-Project/blob/master/Assignments/03-pitch-deck.md)
-- 25% of the final grade is based on completion of the team Sprint & Retrospective Agenda submissions. They were be graded based on a percentage of the steps documented. These assignments and due dates can be found on Gradescope.
-- 25% of the final grade will be based on personal reflections to be completed at the end of every Sprint. They will be graded for completion based on the rubrics in gradescope. These assignments and due dates can be found on Gradescope.
+- Complete all required tutorials
+- Pass all projects according to the associated project rubric (see [this folder](https://github.com/Make-School-Courses/SPD-1.3-Team-Software-Project/tree/master/Assignments) for project requirements and evaluation)
+- Pass the final summative assessment >=75%
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
