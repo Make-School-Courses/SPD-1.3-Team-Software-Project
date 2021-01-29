@@ -58,6 +58,17 @@ Students by the end of the course will be able to ...
 | 10 |  Mon, Mar 1                | Warrom + Update LinkedIn & MKS Portfolio |
 | 11 |  Wed, Mar 3                | Final Survey & Presentations | |
 
+[Intro to Teamwork]:Lessons/Lesson01.md
+[LARA & Sprint Retrospectives]: Lessons/Lesson02.md
+[Sprint Planning & Kan Ban]: Lessons/Lesson03.md
+[Git Collaboration]:  Lessons/Lesson04.md
+[Teamwork Performance]: Lessons/Lesson05.md
+[Industry Contacts]: Lessons/Lesson06.md
+[5 Dysfunctions of a Team]: Lessons/Lesson07.md
+[Teamwork and Personality]: Lessons/Lesson08.md
+[Responding to Microagressions]: Lessons/Lesson09.md
+[Investor Pitchdecks]: Lessons/Lesson10.md
+
 <!-- omit in toc -->
 ### **Section B: Braus - Hybrid**
 
