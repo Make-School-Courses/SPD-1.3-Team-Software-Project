@@ -34,6 +34,8 @@ Students by the end of the course will be able to ...
 
 ## Schedule
 
+View the most up to date data in the [tracker](make.sc/spd-1-3)
+
 <!-- tabs:start -->
 <!-- omit in toc -->
 ### **Section A: Dan**
