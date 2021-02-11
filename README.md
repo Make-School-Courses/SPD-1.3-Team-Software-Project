@@ -47,29 +47,18 @@ View the most up to date data in the [tracker](make.sc/spd-1-3)
 | Class |          Date          |                 Topics                  |  In-Person Labs   |
 |:-----:|:----------------------:|:---------------------------------------:|:-----------------:|
 |  1 |  Wed, Jan 20               | [Intro to Teamwork] | |
-|  2 |  Mon, Jan 25               | [LARA & Sprint Retrospectives] | |
+|  2 |  Mon, Jan 25               | [LARA] & [Sprint Retrospectives] | |
 |  3 |  Wed, Jan 27               | [Sprint Planning & Kan Ban] | Lab |
 |  - |  Mon, Feb 1                | [Git Collaboration] |
 |  4 |  Wed, Feb 3                | [Teamwork Performance] + Retrospective Sprint 1 | Lab |
 |  5 |  Mon, Feb 8                | [Industry Contacts] |
 |  6 |  Wed, Feb 10               | [5 Dysfunctions of a Team] + Retrospective Sprint 2 | Lab |
-|  7 |  Mon, Feb 15               | [Teamwork and Personality] |
-|  8 |  Wed, Feb 17               | [Responding to Microagressions] + Retrospective Sprint 3 | Lab |
-|  9 |  Mon, Feb 22               | [Investor Pitchdecks] + Retrospective Sprint 1|
-|  - |  Wed, Feb 24               | Warroom + Retrospective Sprint 4 | Lab |
+|  7 |  Mon, Feb 15               | Teamwork and Personality Workshop |
+|  8 |  Wed, Feb 17               | Responding to Microagressions + Retrospective Sprint 3 | Lab |
+|  9 |  Mon, Feb 22               | [Investor Pitchdecks] |
+|  - |  Wed, Feb 24               | [6 Thinking Hats] + Retrospective Sprint 4 | Lab |
 | 10 |  Mon, Mar 1                | Warrom + Update LinkedIn & MKS Portfolio |
 | 11 |  Wed, Mar 3                | Final Survey & Presentations | |
-
-[Intro to Teamwork]:Lessons/Lesson01.md
-[LARA & Sprint Retrospectives]: Lessons/Lesson02.md
-[Sprint Planning & Kan Ban]: Lessons/Lesson03.md
-[Git Collaboration]:  Lessons/Lesson04.md
-[Teamwork Performance]: Lessons/Lesson05.md
-[Industry Contacts]: Lessons/Lesson06.md
-[5 Dysfunctions of a Team]: Lessons/Lesson07.md
-[Teamwork and Personality]: Lessons/Lesson08.md
-[Responding to Microagressions]: Lessons/Lesson09.md
-[Investor Pitchdecks]: Lessons/Lesson10.md
 
 <!-- omit in toc -->
 ### **Section B: Braus - Hybrid**
@@ -81,44 +70,46 @@ View the most up to date data in the [tracker](make.sc/spd-1-3)
 | Class |          Date          |                 Topics                  |  In-Person Labs   |
 |:-----:|:----------------------:|:---------------------------------------:|:-----------------:|
 |  1 |  Wed, Jan 20               | [Intro to Teamwork] | |
-|  2 |  Mon, Jan 25               | [LARA & Sprint Retrospectives] | |
+|  2 |  Mon, Jan 25               | [LARA] & [Sprint Retrospectives] | |
 |  3 |  Wed, Jan 27               | [Sprint Planning & Kan Ban] | Lab |
 |  - |  Mon, Feb 1                | [Git Collaboration] |
 |  4 |  Wed, Feb 3                | [Teamwork Performance] + Retrospective Sprint 1 | Lab |
 |  5 |  Mon, Feb 8                | [Industry Contacts] |
 |  6 |  Wed, Feb 10               | [5 Dysfunctions of a Team] + Retrospective Sprint 2 | Lab |
-|  7 |  Mon, Feb 15               | [Teamwork and Personality] |
-|  8 |  Wed, Feb 17               | [Responding to Microagressions] + Retrospective Sprint 3 | Lab |
-|  9 |  Mon, Feb 22               | [Investor Pitchdecks] + Retrospective Sprint 1|
-|  - |  Wed, Feb 24               | Warroom + Retrospective Sprint 4 | Lab |
+|  7 |  Mon, Feb 15               | Teamwork and Personality Workshop |
+|  8 |  Wed, Feb 17               | Responding to Microagressions + Retrospective Sprint 3 | Lab |
+|  9 |  Mon, Feb 22               | [Investor Pitchdecks] |
+|  - |  Wed, Feb 24               | [6 Thinking Hats] + Retrospective Sprint 4 | Lab |
 | 10 |  Mon, Mar 1                | Warrom + Update LinkedIn & MKS Portfolio |
 | 11 |  Wed, Mar 3                | Final Survey & Presentations | |
 
 <!-- tabs:end -->
 
-[Intro to Teamwork]:Lessons/Lesson01.md
-[LARA & Sprint Retrospectives]: Lessons/Lesson02.md
-[Sprint Planning & Kan Ban]: Lessons/Lesson03.md
-[Git Collaboration]:  Lessons/Lesson04.md
-[Teamwork Performance]: Lessons/Lesson05.md
-[Industry Contacts]: Lessons/Lesson06.md
-[5 Dysfunctions of a Team]: Lessons/Lesson07.md
-[Teamwork and Personality]: Lessons/Lesson08.md
-[Responding to Microagressions]: Lessons/Lesson09.md
-[Investor Pitchdecks]: Lessons/Lesson10.md
+[Intro to Teamwork]: https://docs.google.com/presentation/d/1ehSK9CTPBujP9Lh_hbp1palaxyCsGRR2nfKe02IX48Q/edit#slide=id.g6dae1e4920_0_0
+[LARA]: https://docs.google.com/document/d/1HmKXUw8kXCwR6BwqRR2zxWvxc0JdnxLEbCmfACAuFao/edit 
+[Sprint Retrospectives]: https://docs.google.com/presentation/d/1JsqI_SFi1245W0hwrMXbCA7SB1LdXsDuVqF_TM-6DVk/edit
+[Sprint Planning & Kan Ban]: https://docs.google.com/presentation/u/1/d/1-qvGuVmZSdNiimUoFY-FXIDzAAyCY4NdLJso7LmI6NQ/edit
+[Git Collaboration]:  https://github.com/Make-School-Courses/Core-Git-Branching
+[Teamwork Performance]: https://docs.google.com/document/u/1/d/1d-K-DCbIvCOfmqIeoTAjoTg3LmiqXZc-RsTnIi3WAUg/edit
+[Industry Contacts]: https://docs.google.com/presentation/d/1g4FuBBQIBLJ30eGXD9YsDjK2PaNUnrg6a60ip0WBc6A/edit#slide=id.g40f6408b0c_0_5
+[5 Dysfunctions of a Team]: https://docs.google.com/presentation/d/18zlL6NbjAS86ZTfi045bTjBbn1BiqnmuC9wrX2wq9L8/edit?folder=1C4S2rBRlIpFZLdYD1qg1VXbVaC_XzSJD#slide=id.p
+[Investor Pitchdecks]: https://docs.google.com/presentation/d/1BYsmchzoaEG3WQXHHqlVgRPYsXuRqg3s-c-e1QbPKdk/edit#slide=id.g4ef26aab2e_0_0
+[6 Thinking Hats]: https://www.mindtools.com/pages/article/newTED_07.htm
 
 ## Assignment Schedule
 
-All assignments are graded on completion. Individual requirements for each are listed in the description of the assignment.
+All assignments are graded on completion. Individual requirements for each are listed in the description of the assignment. 
 
 |         Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
+| [Complete Assignment Instructions]         |               |              | Gradescope
 | [Sprint Meeting Notes & Reflection 1]      |  Jan 25       |  Feb 3      | Gradescope  |
 | [Sprint Meeting Notes & Reflection 2]      |  Feb 3        |  Feb 10      | Gradescope  |
 | [Sprint Meeting Notes & Reflection 3]      |  Feb 10       |  Feb 17      | Gradescope  |
 | [Sprint Meeting Notes & Reflection 4]      |  Feb 17       |  Feb 24       | Gradescope  |
 | [Final Project]                            |  Jan 20       |  Mar 3       | Gradescope  |
 
+[Complete Assignment Instructions]: https://docs.google.com/document/d/1YDo1MzGOKieYouBfuKFHnEN0cn-uIYnLnZX0pUUVdz4/edit
 [Sprint Meeting Notes & Reflection 1]: https://www.gradescope.com/courses/223474/assignments
 [Sprint Meeting Notes & Reflection 2]: https://www.gradescope.com/courses/223474/assignments
 [Sprint Meeting Notes & Reflection 3]: https://www.gradescope.com/courses/223474/assignments
